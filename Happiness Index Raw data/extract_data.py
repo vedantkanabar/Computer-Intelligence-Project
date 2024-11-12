@@ -7,8 +7,6 @@ EU_Countries = [
     "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"
 ]
 
-# data_df = pd.read_excel('DataForTable2.1.xls')
-# data_df.head()
 
 try:
     data_df = pd.read_excel('DataForTable2.1.xls')
