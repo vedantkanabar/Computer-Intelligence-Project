@@ -1,0 +1,789 @@
+country_name,Country Code,Series Name,Series Code,2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022]
+Austria,AUT,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Austria,AUT,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,96.73,..,..,98.16,..,..,..,99.95,..
+Austria,AUT,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-0.40137443875075,-0.239205486506776,0.877091983395943,0.535429018149841,3.76228976536397,0.352649305186461,2.09372738402087,1.50511683613821,-6.59592462178009,3.63227600688209,..
+Austria,AUT,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.34069001674652,1.28648996353149,1.31108999252319,1.3364200592041,1.85311996936798,1.363450050354,1.20026004314423,1.1625200510025,1.13391995429993,1.04074001312256,1.64181995391846
+Austria,AUT,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Austria,AUT,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,Compensation of employees (% of expense),GC.XPN.COMP.ZS,12.7518532722352,12.5347709182929,12.1687583277151,12.6899643827079,13.0657699985267,13.3501202010593,13.4906811007633,13.6701900848905,12.081270877528,11.8211534621105,11.6473338229384
+Austria,AUT,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Austria,AUT,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Austria,AUT,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9999966635574,99.999997857895,100,99.9999988248374,100,100,99.9999993151203,99.9999965908061,100,100,99.9999993664088
+Austria,AUT,Progression to secondary school (%),SE.SEC.PROG.ZS,99.93833,99.97995,99.93128,99.92498,99.76727,..,..,..,..,..,..
+Austria,AUT,Secure Internet servers,IT.NET.SECR,13601,15751,20044,26636,38878,65381,147681,233527,301414,356219,357555
+Austria,AUT,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,7.7701136425421,7.98594015412431,6.84191575882635,7.44689127902493,7.334234175495,7.54199227528387,7.54886985856162,7.6242066761855,7.42452431594542,7.74457524598176,7.91700194289979
+Austria,AUT,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.92673003673553,1.48000001907349,1.29588997364044,1.34192001819611,1.99799001216888,1.33122003078461,1.25853002071381,1.23357999324799,1.17481005191803,0.947790026664734,1.67592000961304
+Austria,AUT,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,76.9800033569336,77.3099975585938,78.4300003051758,79.0100021362305,79.370002746582,79.6600036621094,80.0708312988281,80.6699981689453,80.9440231323242,81.4542465209961,82.0893325805664
+Austria,AUT,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,57.67,57.538,57.16,57.115,57.427,57.703,58.298,58.514,57.651,57.202,58.442
+Austria,AUT,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,34.2785902811409,34.4357077980255,35.2312815816798,33.939986446073,32.6639074998193,31.9397262094217,31.2274879424152,30.7714703961521,37.1462711156962,36.8971118500177,35.0048647454962
+Austria,AUT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.680445576816723,0.0255047121972183,0.661272848852605,1.01450158590511,1.98943716230463,2.25857243250671,2.42538536088061,1.45052918393192,-6.63299143662553,4.23786673253257,4.80643020178459
+Austria,AUT,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,42.08,42.62,43.36,44.66,44.51,45.37,44.79,43.9,47.85,49.28,49.3
+Austria,AUT,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,31.2,..,..,27.1,27.1,26.4,..,..
+Austria,AUT,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.335113525391,100.746078491211,100.970321655273,101.104393005371,100.428077697754,101.104568481445,101.370300292969,101.776290893555,101.560852050781,101.644119262695,100.77562713623
+Austria,AUT,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,46.2612345845771,46.7037721665274,47.5411540413673,48.6221423077056,45.9871330305936,46.6414327325418,47.651134186111,47.9740999912304,46.721249374959,48.3700617568264,49.6939196143449
+Austria,AUT,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.8352885026422,85.8340389358533,85.7436251691165,86.1309387024811,86.4683436493052,86.8080288346782,87.1616079776196,87.1682279688618,87.0751781530236,87.1792330729152,87.2694438843192
+Austria,AUT,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.909,5.367,5.674,5.802,6.064,5.561,4.933,4.56,5.201,6.459,4.992
+Austria,AUT,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.393,3.352,4.012,3.953,3.614,3.212,3.297,3.066,3.281,4.138,3.49
+Belgium,BEL,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Belgium,BEL,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,98.13,..,..,98.64,..,..,..,99.01,..
+Belgium,BEL,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,3.25711323696092,1.00907472131921,1.64296850682923,2.37614399006351,1.6411219212963,1.25989968491847,1.02224257428063,2.96454047071167,-6.60039630623422,5.57496680144214,..
+Belgium,BEL,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.7358900308609,1.72186005115509,1.61366999149323,1.63335001468658,1.67692005634308,0.891960024833679,0.897210001945496,0.882889986038208,0.963519990444183,1.13171005249023,1.27794003486633
+Belgium,BEL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Belgium,BEL,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,Compensation of employees (% of expense),GC.XPN.COMP.ZS,7.4307901185509,7.55418018088033,7.93824889045022,8.33578833663005,8.1448725795587,8.17025461049723,8.02880662512754,7.92598193322456,7.15072916933644,7.19573935480825,7.57400259979346
+Belgium,BEL,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Belgium,BEL,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Belgium,BEL,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9999988236868,99.9999956364419,99.9999985626867,99.9999962819912,100,99.999998377684,100,100,99.9999962634716,100,100
+Belgium,BEL,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,Secure Internet servers,IT.NET.SECR,10633,14067,18047,22982,34530,94420,159673,225822,279411,328693,360344
+Belgium,BEL,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,5.33174062036665,5.78443559078967,5.37820418800116,5.68502314992685,5.87334161221032,6.34337174411597,6.33769140020729,6.23056877770938,6.25219150044764,6.17390054662305,5.96857033506728
+Belgium,BEL,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.8775600194931,1.80781996250153,1.83106994628906,1.85124003887177,1.9190399646759,1.38223004341125,1.33835995197296,1.34748995304108,1.22926998138428,1.47403001785278,1.224249958992
+Belgium,BEL,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,63.2099990844727,64.2799987792969,64.0199966430664,66.2099990844727,67.0800018310547,69.1500015258789,70.8456954956055,71.4499969482422,72.7141799926758,74.2476806640625,75.1261901855469
+Belgium,BEL,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,49.233,49.047,48.946,48.788,48.952,50.021,50.965,51.475,50.83,51.079,52.026
+Belgium,BEL,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,31.2791076163198,30.7862197108532,30.6551087795063,27.3703904042559,27.1999066231745,26.5058922579728,26.3316138130832,26.2484326565641,30.4995579056715,28.3535329995678,27.0119991620561
+Belgium,BEL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.739217283058679,0.459242192907709,1.57853314322614,2.04145900919961,1.26668640902095,1.6195802783878,1.79294519302076,2.24083533103139,-5.30447336526071,6.92798360287613,3.01472197492703
+Belgium,BEL,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,39.94,40.68,40.03,40.27,39.07,39.08,38.35,40.61,45.69,41.67,41.62
+Belgium,BEL,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,25.7,..,..,23.9,23.9,23.4,..,..
+Belgium,BEL,"School enrollment, primary (% gross)",SE.PRM.ENRR,101.520362854004,103.191062927246,103.104873657227,102.243827819824,102.055862426758,102.752861022949,102.500366210938,102.148559570312,102.064270019531,101.821136474609,102.176986694336
+Belgium,BEL,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,58.6396021026058,59.8394824053024,60.1777717001128,58.3710232638431,54.9947306532938,56.5473482675823,56.8035821118756,55.1101761132518,55.6801366723443,55.86511765911,58.4501846813396
+Belgium,BEL,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.6541359652323,84.9206582690521,85.3866844695595,84.8209347163033,85.1691714244782,85.5688003136004,85.9709154887153,85.7663877892205,85.2837060356612,85.860493129327,84.9427942209729
+Belgium,BEL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,7.542,8.425,8.523,8.482,7.83,7.09,5.941,5.364,5.545,6.248,5.57
+Belgium,BEL,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.943,4.921,4.671,4.592,4.204,3.728,3.162,2.83,3.25,3.309,3.025
+Bulgaria,BGR,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.7,95.3,95.9,96.6,97.3,98.1,98.7,99.2,99.7,99.8,100
+Bulgaria,BGR,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,62.99,..,..,72.2,..,..,..,83.97,..
+Bulgaria,BGR,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Bulgaria,BGR,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Bulgaria,BGR,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Bulgaria,BGR,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,2.29165510016982,-1.44187192464365,2.23761910056719,2.17205692096533,5.25498344399521,3.9130085016937,2.07930995492664,6.40984001828122,-2.18056014946822,8.37370848771953,..
+Bulgaria,BGR,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,7.88295984268188,2.68158006668091,1.94904005527496,1.50571000576019,1.82647001743317,3.22664999961853,2.47640991210938,2.87824010848999,2.71690988540649,3.88322997093201,5.37277984619141
+Bulgaria,BGR,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..,..,..,..,..,..,..,..,..,..,..
+Bulgaria,BGR,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Bulgaria,BGR,Compensation of employees (% of expense),GC.XPN.COMP.ZS,23.7846592192648,23.8638769115649,21.3185281933947,22.6587470412467,23.3365434107767,24.0835652797824,24.7693092012712,26.5795960640507,24.5816731834596,22.8086483752759,19.8820237426009
+Bulgaria,BGR,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Bulgaria,BGR,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,51.66667,51.66667,55,55,55,55,..,..,..
+Bulgaria,BGR,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Bulgaria,BGR,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.3615537163291,99.3284841822603,99.2961131591919,99.2644589337805,99.2335067314028,99.2032722209598,99.1737272552471,99.1448780003009,99.1167359557668,99.0892984922743,99.0625327881186
+Bulgaria,BGR,Progression to secondary school (%),SE.SEC.PROG.ZS,99.29677,99.60124,99.2541,98.70297,99.33268,..,..,..,..,..,..
+Bulgaria,BGR,Secure Internet servers,IT.NET.SECR,1839,2343,4589,4880,28821,228612,268524,280691,333361,358557,373809
+Bulgaria,BGR,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,10.0960726886888,10.3515203225993,11.5668782833913,12.0159015689814,11.6296074357592,11.3934047974268,10.8232721834834,11.594317854372,11.8822023363105,11.0928039654857,9.91719665033825
+Bulgaria,BGR,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.50696992874146,3.69968008995056,3.25387001037598,2.9882800579071,3.36121988296509,3.53475999832153,4.03474998474121,4.18113994598389,4.21193981170654,5.04082012176514,5.29597997665405
+Bulgaria,BGR,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,72.4800033569336,73.9400024414062,73.8099975585938,74.9100036621094,75.5999984741211,76.4499969482422,76.9173965454102,77.1142807006836,77.7799987792969,78.4247741699219,79.3163833618164
+Bulgaria,BGR,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,46.566,46.925,47.958,49.124,49.292,51.942,52.44,54.188,52.7,52.347,54.156
+Bulgaria,BGR,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,24.4141233889044,26.229664630492,30.1002696592211,27.7191725044871,24.7278140776476,24.6190217701832,23.9899911910574,24.0281180937201,28.1543798292714,30.0708312800017,31.1891290010613
+Bulgaria,BGR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.748814802957327,-0.542751313085674,0.949448520821818,3.39755387590648,3.02662839224124,2.74592725876734,2.69490655338835,4.03518894662498,-3.96615613627334,7.6617480742932,3.92643222124569
+Bulgaria,BGR,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,10.03,10.19,10.64,10.51,9.6,10.96,11.62,11.35,13.5,11.34,11.91
+Bulgaria,BGR,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,40.7,..,..,39.4,39.4,39,..,..
+Bulgaria,BGR,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.363082885742,98.7911834716797,99.2496109008789,99.1272201538086,98.0771636962891,97.5942993164062,96.7923202514648,96.4398803710938,96.5437622070312,95.6110992431641,95.8885192871094
+Bulgaria,BGR,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,24.2928846153466,24.5923997203421,25.9324237152593,26.1494474494977,26.4671697073826,27.5824557214399,28.1366776583536,27.5049988981491,27.8317894486024,30.1405734985,27.7314721329272
+Bulgaria,BGR,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.4144812565769,87.8617850779599,87.5143266310452,87.9721015709808,88.2684948989984,88.3220648820635,88.3531735263643,89.1773723892384,88.9282814460318,89.0011344623336,88.9128628447139
+Bulgaria,BGR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,12.27,12.941,11.424,9.143,7.575,6.164,5.211,4.23,5.125,5.267,4.268
+Bulgaria,BGR,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,5.251,6.474,5.244,3.922,3.571,2.802,2.253,2.051,2.159,2.096,1.589
+Croatia,HRV,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Croatia,HRV,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,86.03,..,..,86.14,..,..,..,91.8,..
+Croatia,HRV,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,47.224365234375,..,..,..,..,..,..,..,..
+Croatia,HRV,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,41.8274230957031,..,..,..,..,..,..,..,..
+Croatia,HRV,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,10.831636428833,..,..,..,..,..,..,..,..
+Croatia,HRV,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-3.48483231701304,1.1082912926925,-0.426597018007129,6.05505322727873,2.65568977147093,6.25236723708807,4.08139461616479,3.82745528113242,-10.5838314448717,10.923454470436,..
+Croatia,HRV,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.940050005912781,0.657149970531464,0.860339999198914,..,1.10065996646881,1.46074998378754,..,..,..,..,..
+Croatia,HRV,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Croatia,HRV,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Croatia,HRV,Compensation of employees (% of expense),GC.XPN.COMP.ZS,21.2856748585272,19.4206010555344,17.982410914699,18.5296434351,19.0920849578694,19.7218510114208,20.5300985103713,20.3906445293289,19.4023383669593,19.152294518847,18.8841458427607
+Croatia,HRV,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Croatia,HRV,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Croatia,HRV,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,71.0627059936523,..,..,..,..,..,..,..,..
+Croatia,HRV,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,..,..,..,..,..,..,..,..,..,..,..
+Croatia,HRV,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..,..,99.09972,98.58482,..,..,..,..,..,..
+Croatia,HRV,Secure Internet servers,IT.NET.SECR,1336,1689,2122,2672,7199,60251,79937,92507,90474,98834,115002
+Croatia,HRV,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,12.9950835994152,12.6194787068077,12.7762912131974,11.8442527579841,12.1194721030692,12.4325154180339,12.3508574282061,12.4500074141251,12.6768914991996,11.6425477501667,9.94098978572859
+Croatia,HRV,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.04625999927521,1.2602299451828,1.43523001670837,1.44624996185303,1.7360600233078,1.46489000320435,1.56895995140076,1.95966005325317,1.84271001815796,1.78707003593445,1.73281002044678
+Croatia,HRV,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,70.5591278076172,71.7854919433594,72.85595703125,73.8226699829102,73.7205963134766,74.7002487182617,75.858024597168,76.6451187133789,77.9384307861328,79.1094818115234,79.9907760620117
+Croatia,HRV,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,43.183,42.071,43.308,44.201,44.592,45.823,46.871,47.721,47.196,47.84,48.66
+Croatia,HRV,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,30.2125159018274,31.5348429895326,32.8106224006671,31.2661223560364,30.1353031742831,29.1058958077041,28.5335080493782,28.8828138245419,34.505601715182,31.6469013100331,29.2118122531982
+Croatia,HRV,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.29825501176262,-0.306838201985599,-0.341682629892162,2.54912963456138,3.6491975253731,3.36480330584141,2.98337691293294,3.44274248042554,-8.52043813391506,13.0411434856638,7.02722588804099
+Croatia,HRV,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.87,18.44,20.97,25.82,24.19,23.25,25.5,26.09,29.65,27.15,28.25
+Croatia,HRV,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,36.1,..,..,36.7,36.7,36.9,..,..
+Croatia,HRV,"School enrollment, primary (% gross)",SE.PRM.ENRR,98.7156372070312,98.5737533569336,98.908317565918,99.4907684326172,98.7909393310547,99.2321090698242,98.8812103271484,99.0015106201172,99.4886703491211,99.7441482543945,100.527976989746
+Croatia,HRV,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,11.6136835386389,11.8422855739252,10.7121359025311,11.875986754356,13.1026970455536,12.8734733347096,10.6055972975826,10.8637531933383,11.1620162435109,10.6101954787532,15.2430225598404
+Croatia,HRV,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.252225174392,81.9221535696703,84.3842741202834,84.3299707114453,86.0919793811111,87.0123064573227,87.9252524455192,87.6514969074898,87.5833538252354,86.890421226203,86.5150988209851
+Croatia,HRV,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,15.935,17.251,17.29,16.175,13.103,11.208,8.432,6.617,7.507,7.608,6.96
+Croatia,HRV,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,10.814,11.456,9.603,9.24,7.81,7.112,6.025,5.253,5.36,4.904,5.264
+Cyprus,CYP,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Cyprus,CYP,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,90.15,..,..,88.72,..,..,..,93.13,..
+Cyprus,CYP,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Cyprus,CYP,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Cyprus,CYP,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Cyprus,CYP,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-7.29073317129256,-8.26632132209666,-3.71065833251845,7.62992575417371,4.79953310131991,7.38897600350643,4.90899522885326,3.66616700904841,-8.56366297851451,5.0603746423719,..
+Cyprus,CYP,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.41451001167297,0.392969995737076,0.298559993505478,1.86775004863739,2.31316995620728,0.448379993438721,0.273809999227524,0.641269981861115,0.753199994564056,0.152630001306534,0.495480000972748
+Cyprus,CYP,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Cyprus,CYP,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Cyprus,CYP,Compensation of employees (% of expense),GC.XPN.COMP.ZS,40.3520062259605,39.7104731095835,31.1873253620413,37.5569468038069,39.1243809653697,39.2211764304159,33.5738381402833,36.7498425721934,36.395664661081,34.9335418229993,36.4614855183152
+Cyprus,CYP,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,335,335,335,335,335,335,..,..,..
+Cyprus,CYP,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,300,300,300,300,300,300,..,..,..
+Cyprus,CYP,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Cyprus,CYP,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.8117166379647,99.8039948994153,99.7962635128942,99.7885226504475,99.7807592223867,99.772986625002,99.7651834346312,99.7651923631792,99.7651721581168,99.7651324768156,99.7650627352206
+Cyprus,CYP,Progression to secondary school (%),SE.SEC.PROG.ZS,99.53709,99.3834,99.36473,98.40366,99.74383,..,..,..,..,..,..
+Cyprus,CYP,Secure Internet servers,IT.NET.SECR,1710,1122,2796,2760,5325,20484,7578,9854,30171,72876,78430
+Cyprus,CYP,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,3.79657259931127,8.12294910290514,9.57783632893941,9.86910567244994,10.1841003639361,8.69778491699018,8.10080559529895,8.9201400679064,8.6621137957118,7.34038844640039,6.8692151867296
+Cyprus,CYP,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.31052005290985,1.79526996612549,2.27123999595642,1.39976000785828,1.73635005950928,1.34039998054504,0.575219988822937,0.507369995117188,0.410600006580353,0.0656099990010262,0.839969992637634
+Cyprus,CYP,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,68.9199981689453,69.8899993896484,69.5,69.0500030517578,71.1600036621094,71.8100051879883,72.9800033569336,73.3407135009766,74.4700012207031,76.4442138671875,77.655143737793
+Cyprus,CYP,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,55.946,53.252,53.493,53.005,53.327,54.822,57.174,58.507,57.935,59.035,60.678
+Cyprus,CYP,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,34.2732623927361,34.2704070088234,40.3270666213116,30.993873046,27.9370853278479,27.2113564681194,31.2846518089079,29.5291061636975,33.2435789248541,31.7028534200805,28.9881268675523
+Cyprus,CYP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-3.44738142393619,-6.58748225683094,-1.77606191187711,3.41892318781653,6.57358020185954,5.73347613913472,5.647664895964,5.53725481070528,-3.44359637887621,9.91131179221449,5.05812800841309
+Cyprus,CYP,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,27.37,32.7,34.76,33.78,31.06,29.72,28.84,31.04,36.35,34.89,33.48
+Cyprus,CYP,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,36.4,..,..,35.5,35.5,35.1,..,..
+Cyprus,CYP,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.175346374512,99.7619781494141,99.152717590332,99.3001174926758,98.5455093383789,99.3066864013672,99.7954406738281,100.477699279785,100.735160827637,99.1028137207031,97.0016403198242
+Cyprus,CYP,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,40.3587443946188,40.3318172177315,37.8546632723906,36.8357627864939,36.5419452955516,37.890625,37.7601057729326,38.166398163065,41.0257454782467,41.5004748338082,41.3301594535153
+Cyprus,CYP,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.3960630984373,82.440609527472,82.1116870563932,85.0714262711527,85.7172440039998,86.2335663254205,86.7208102394247,86.3468873016215,86.2176613197835,88.1479741061518,89.1010692197218
+Cyprus,CYP,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,12.097,16.131,16.277,15.026,13.006,11.155,8.504,7.155,7.755,7.513,6.807
+Cyprus,CYP,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,10.439,13.364,12.953,12.151,10.947,9.846,7.667,6.263,7.101,6.306,5.762
+Czechia,CZE,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Czechia,CZE,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,82.18,..,..,80.99,..,..,..,94.94,..
+Czechia,CZE,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Czechia,CZE,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Czechia,CZE,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Czechia,CZE,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,0.985797904736359,0.682821335853845,3.18246052570228,6.38760566588277,3.35235061370037,6.51424321209963,3.42953845968155,2.31659160446864,-5.46075416037321,4.60106974602627,..
+Czechia,CZE,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,0.155389994382858,0.222979992628098,0.278340011835098,0.396090000867844,0.260340005159378,0.731090009212494,1.38624000549316,1.9559600353241,0.000310000003082678,0.0175899993628263
+Czechia,CZE,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Czechia,CZE,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Czechia,CZE,Compensation of employees (% of expense),GC.XPN.COMP.ZS,12.3739037407298,13.1046159189215,13.0208732657168,13.3227985164534,13.8440146100582,14.8056482691752,15.3454909832764,15.3710514994153,14.1937854402935,14.0733962308063,13.6255995884213
+Czechia,CZE,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Czechia,CZE,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Czechia,CZE,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Czechia,CZE,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.8681822613728,99.8741097401901,99.8800124959238,99.8800959139295,99.8801723996148,99.8802604430032,99.8803584517819,99.8804688935076,99.8805882608907,99.8807192964404,99.8808566286988
+Czechia,CZE,Progression to secondary school (%),SE.SEC.PROG.ZS,99.67728,99.71331,99.97633,99.95724,99.94707,..,..,..,..,..,..
+Czechia,CZE,Secure Internet servers,IT.NET.SECR,8773,11354,14921,21607,126705,269310,450120,599619,723194,797732,913598
+Czechia,CZE,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,6.84600751136211,7.17579326112522,7.26746165220963,7.49087863999436,7.22772902801412,6.46241130104379,6.52009005338795,6.81838827125203,7.34036507017301,6.92334675069107,6.71877993186336
+Czechia,CZE,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.441210001707077,0.974690020084381,1.67104005813599,2.11766004562378,2.50768995285034,2.90678000450134,2.07468008995056,1.86357998847961,1.52471005916595,0.0971300005912781,0.0856899991631508
+Czechia,CZE,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,88.5299987792969,89.1600036621094,89.629997253418,89.7699966430664,90.2300033569336,90.5800018310547,90.5812530517578,90.6699981689453,90.9993286132812,91.4344177246094,91.1693878173828
+Czechia,CZE,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,54.549,55.154,55.687,56.425,57.551,58.478,59.203,59.164,58.268,58.153,58.529
+Czechia,CZE,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,32.3702735593234,30.5811681971492,30.3129758942382,29.2511012072959,28.8003038646218,27.8284586018119,28.2194131287632,28.495391002466,33.6079168616029,33.0589385627129,31.1605185522007
+Czechia,CZE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.785004299003617,-0.0459036735515213,2.26210289708078,5.38838083815307,2.5372845203138,5.16872430413071,3.22008806955105,3.02987866345279,-5.50296796125089,3.55302130899085,2.35100353961535
+Czechia,CZE,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.46,26.68,26.2,28.62,25.69,28.19,28.2,28.37,33.9,28.7,29.97
+Czechia,CZE,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,31.4,..,..,30.9,30.9,30.7,..,..
+Czechia,CZE,"School enrollment, primary (% gross)",SE.PRM.ENRR,99.3585815429688,98.7804794311523,97.6821594238281,96.9615478515625,96.9097595214844,97.2324905395508,98.2727584838867,99.2833023071289,99.7845306396484,101.677841186523,100.97534942627
+Czechia,CZE,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,32.1378255114478,31.6797485210889,33.9309720146903,32.897995749091,34.0069924106762,34.8384522502458,36.7949165213058,37.1355951424767,38.2405580900874,35.109030946332,36.9857188379389
+Czechia,CZE,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.5844947733409,82.4374950601997,82.0068526361452,82.6614334755929,82.8403443113626,82.9568158965139,83.0558523876719,83.1990500227179,83.1138852597025,84.0492473981959,84.0240417077054
+Czechia,CZE,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.979,6.953,6.108,5.048,3.952,2.893,2.246,2.015,2.551,2.803,2.224
+Czechia,CZE,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.518,4.103,2.836,2.381,1.872,1.483,1.185,0.996,1.418,1.359,0.794
+Denmark,DNK,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Denmark,DNK,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,100,..,..,99.92,..,..,..,100,..
+Denmark,DNK,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Denmark,DNK,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Denmark,DNK,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Denmark,DNK,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,0.842025527429783,3.22463267021975,3.57737535155181,2.62883157537601,2.36252751184504,2.70067755722394,2.06296106529511,1.18906792387033,-0.537966580721758,6.39373977203749,..
+Denmark,DNK,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.923979997634888,0.741299986839294,0.872359991073608,0.724629998207092,0.891579985618591,0.712000012397766,0.669560015201569,0.575810015201569,0.498970001935959,0.566280007362366,0.800140023231506
+Denmark,DNK,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Denmark,DNK,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Denmark,DNK,Compensation of employees (% of expense),GC.XPN.COMP.ZS,10.2238815060234,10.7039695983119,10.6294572874908,10.61451492369,10.8087139056784,10.8340034889332,11.045128627489,11.3431861456161,10.3210376330659,10.7045011856369,11.2029224354641
+Denmark,DNK,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Denmark,DNK,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Denmark,DNK,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Denmark,DNK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9999953621224,99.9999969186137,99.9999981075887,100,99.9999966973667,99.9999999404253,100,100,99.9999967060358,99.9999998331871,100
+Denmark,DNK,Progression to secondary school (%),SE.SEC.PROG.ZS,99.91531,99.97115,99.99816,99.95,99.94342,..,..,..,..,..,..
+Denmark,DNK,Secure Internet servers,IT.NET.SECR,17135,19419,24548,34129,137709,252263,713512,1612517,1615776,1520727,1527470
+Denmark,DNK,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,4.63344949013399,4.84806851507082,4.58821837591923,4.99308532173423,5.1392650088198,4.8842860668024,5.10154666878939,4.82945147545583,4.64546707811849,4.79075411315281,4.8762542910537
+Denmark,DNK,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.414920002222061,0.495310008525848,0.616819977760315,0.625270009040833,0.676769971847534,0.561770021915436,0.381170004606247,0.403620004653931,0.355190008878708,0.469520002603531,0.586499989032745
+Denmark,DNK,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,76,76.5500030517578,76.8399963378906,77.75,78.1800003051758,75.21484375,79.2799987792969,76.0538482666016,79.3199996948242,77.0769271850586,76.8023986816406
+Denmark,DNK,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,57.453,56.884,57.016,57.467,57.96,58.116,58.645,59.245,58.522,59.399,60.561
+Denmark,DNK,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,43.3229036148682,41.2099530640939,40.7318423082311,40.281410076533,38.2180405750748,36.8574893870773,36.6411062080794,35.7936463089725,39.5074453959367,37.0358996894591,32.5498914013147
+Denmark,DNK,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.226499791802965,0.933340972371226,1.61939381103033,2.34259110757047,3.24595698524396,2.82173634129026,1.98953731496432,1.49348695853648,-2.42451267861938,6.84452190183443,2.73117445421431
+Denmark,DNK,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,42.83,43.23,42.84,42.44,44.27,43.51,42.58,44.3,43.97,43.09,44.07
+Denmark,DNK,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,21.1,..,..,18.1,18.1,17.5,..,..
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,101.51065826416,101.299331665039,101.176940917969,100.882141113281,101.041496276855,100.778030395508,100.749008178711,100.551002502441,100.459587097168,100.308418273926,100.244453430176
+Denmark,DNK,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,50.843628216658,51.8802902796761,56.1744690795997,52.7279175986044,51.8947101436885,52.7042266597128,50.6006646823485,54.9413104861,54.2238398680374,57.2344751898297,54.1159420959813
+Denmark,DNK,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,90.7275287084154,90.8721834985036,91.0296107717483,91.1332397085606,91.2117629753921,91.5440092083019,91.8634054226728,91.661273096267,91.4760030616874,91.1728449489982,91.4176041329629
+Denmark,DNK,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,7.798,7.384,6.925,6.278,5.989,5.833,5.131,5.018,5.637,5.043,4.434
+Denmark,DNK,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,4.982,4.744,4.778,4.617,4.648,4.58,4.172,4.096,4.682,3.995,3.551
+Estonia,EST,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Estonia,EST,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,97.67,..,..,97.99,..,..,..,99.38,..
+Estonia,EST,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,4.42275111336056,4.08183205033161,4.1798725828726,2.58379478456025,4.79592418744691,5.62777574421338,4.91953912039892,3.72739511766061,-0.446213649861761,9.08932113495457,..
+Estonia,EST,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..,1.55483996868134,2.16045999526978,2.19085001945496,2.27696990966797,2.17038989067078,2.06240010261536,2.12694001197815,1.92250001430511,1.55664002895355
+Estonia,EST,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Estonia,EST,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,Compensation of employees (% of expense),GC.XPN.COMP.ZS,18.0806378663635,18.2773403649207,18.9460311517138,18.478999839661,18.4155248189914,18.3768720225911,17.7825430425372,17.78993684449,17.211542025216,16.8282634856492,16.9884777210568
+Estonia,EST,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Estonia,EST,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Estonia,EST,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.3681632506101,99.5437917222656,99.7181271894266,99.8911870771644,99.915239179191,99.9391483256029,99.9631593750796,99.9872873090016,99.9999977228497,99.9999991547783,100
+Estonia,EST,Progression to secondary school (%),SE.SEC.PROG.ZS,99.54882,99.39714,99.32959,99.73484,99.82892,..,..,..,..,..,..
+Estonia,EST,Secure Internet servers,IT.NET.SECR,1661,2127,2885,4105,14193,38377,64636,110548,112151,128166,140416
+Estonia,EST,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,9.04806163615419,9.8749264718968,10.6800633483299,15.0486648783741,13.9638640124111,13.0952765067024,12.6974210538735,12.1046503114663,10.5469283348323,9.26624193499658,9.521769492527
+Estonia,EST,Children out of school (% of primary school age),SE.PRM.UNER.ZS,..,..,2.44312000274658,2.483069896698,2.45626997947693,2.41259002685547,2.3692901134491,2.26395988464355,2.21795988082886,2.12304997444153,1.82405996322632
+Estonia,EST,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,87.25,88.4400024414062,85.9499969482422,86.5599975585938,86.8899993896484,86.9599990844727,87.629997253418,88.4075698852539,85.7600021362305,85.8408355712891,86.4714736938477
+Estonia,EST,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,55.167,56.033,56.627,58.139,58.653,59.889,60.397,60.706,59.098,59.753,61.987
+Estonia,EST,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,30.5335552643062,30.6100476849611,30.2774918838205,32.3803149787203,32.3957566497194,31.3565538151285,31.9876743085501,32.2685909948399,36.1119436348174,34.7364747357997,32.5324339227371
+Estonia,EST,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.22820049358981,1.45842863615992,3.01136658651455,1.85302004629342,3.15556481438308,5.79204467466494,3.78420084952826,4.03368839094283,-0.965410617081545,7.2493263542448,-0.461002668410416
+Estonia,EST,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.94,26.8,27.1,27.95,25.61,26.11,29.22,29.65,32.57,32.34,33.41
+Estonia,EST,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,33.3,..,..,30.5,30.5,29.7,..,..
+Estonia,EST,"School enrollment, primary (% gross)",SE.PRM.ENRR,98.3196105957031,97.6795196533203,97.5922622680664,97.1191482543945,97.2923431396484,97.2500534057617,97.4559478759766,98.1577224731445,98.3466720581055,98.8146667480469,99.2638168334961
+Estonia,EST,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,33.1122456115812,35.5859540927898,35.5481935241905,35.9887919294725,34.3755939132602,34.259765707176,35.4919248304564,34.5181691934783,36.9868726684029,38.9589283225234,38.0110295672772
+Estonia,EST,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.7991853678533,91.5459890146166,91.3868582761231,91.176136071507,90.8613372025357,90.6543245799083,90.3252298619327,90.2007638937453,89.9385889636945,89.6497153861575,89.4845137058726
+Estonia,EST,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,10.021,8.631,7.352,6.412,6.882,5.807,5.412,4.514,6.956,6.178,5.571
+Estonia,EST,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,6.129,5.796,4.757,3.969,3.899,3.248,3.518,2.823,4.757,3.445,3.654
+Finland,FIN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Finland,FIN,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,100,..,..,99.79,..,..,..,99.53,..
+Finland,FIN,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Finland,FIN,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Finland,FIN,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Finland,FIN,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-2.43133013794457,-0.613734971548666,1.03011414404106,1.99346212538445,2.38457988484957,2.77387695423754,1.65972327486021,0.810608265631757,-1.05995692629374,3.85624535808007,..
+Finland,FIN,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.932359993457794,0.964320003986359,1.06025004386902,1.13102996349335,0.787490010261536,0.685670018196106,0.715730011463165,0.667909979820251,1.30139005184174,1.26150000095367,1.72082996368408
+Finland,FIN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Finland,FIN,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Finland,FIN,Compensation of employees (% of expense),GC.XPN.COMP.ZS,10.8814340864103,11.0004883641562,10.8891989407929,10.749648499981,10.2798625095654,9.96378599909489,10.4259404143931,10.8291444320487,9.92491981921813,10.4129754624674,10.7657874067885
+Finland,FIN,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Finland,FIN,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,212.5,212.5,212.5,212.5,212.5,212.5,..,..,..
+Finland,FIN,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Finland,FIN,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,100,100,100,100,99.9999965612864,100,99.9999977602025,100,100,100,100
+Finland,FIN,Progression to secondary school (%),SE.SEC.PROG.ZS,99.9326,99.92357,99.85416,99.98863,99.89739,..,..,..,..,..,..
+Finland,FIN,Secure Internet servers,IT.NET.SECR,11939,13736,16433,18604,39189,122966,187523,318556,451490,581590,729439
+Finland,FIN,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,3.99955398497272,4.09704120474371,4.35706312340211,5.42519167579409,6.56997239440927,5.48573151051527,7.83653361719762,5.88198439540966,6.14251952164462,6.12052593287218,5.73931420360189
+Finland,FIN,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.26225996017456,1.33873999118805,1.33726000785828,1.60240995883942,1.62970995903015,1.82955002784729,1.82132995128632,2.22771000862122,1.89110994338989,1.3612300157547,1.97632002830505
+Finland,FIN,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,71.9499969482422,72.8099975585938,73.5699996948242,74.0199966430664,77.6111145019531,75.5199966430664,80.3374557495117,77.4499969482422,82.5449523925781,80.7345123291016,81.3429718017578
+Finland,FIN,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,55.135,54.296,53.801,53.43,53.439,53.77,55.051,55.376,54.41,55.811,57.021
+Finland,FIN,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,27.0313424891935,27.5752370045174,27.5668569384766,27.2077015871514,26.5899833576991,25.5610889920946,25.1544148512392,24.8947293815507,28.4164713197053,27.2033479079565,25.8294201810323
+Finland,FIN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-1.39754572817782,-0.901696316194844,-0.364908156882066,0.543659211765487,2.81145776663433,3.19240962968416,1.1397180134305,1.22474892206223,-2.35496515679442,2.83817960418034,1.33546730512326
+Finland,FIN,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,43.59,43.21,43.32,43.58,42.01,43.47,44.21,43.84,44.41,45.66,46.19
+Finland,FIN,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,24.5,..,..,22.2,22.2,21.6,..,..
+Finland,FIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,99.7071228027344,99.6918487548828,99.6617202758789,99.5672302246094,99.5080413818359,99.4682083129883,99.7032012939453,99.5557479858398,99.8175811767578,99.353630065918,98.6190185546875
+Finland,FIN,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,27.6605731225296,27.2789776903198,27.8803354729888,28.1937511554816,28.1779427031564,28.6971718420324,28.5764238846494,28.6757438224912,26.1973737074708,29.5964644807689,32.2497740123008
+Finland,FIN,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.4229783864637,86.5616425636715,85.9993431679085,85.7815469117803,85.967109994347,86.3866720612011,86.7912758888849,86.542402931177,86.5661060524737,85.4275441891491,86.0665965279444
+Finland,FIN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,7.689,8.193,8.663,9.376,8.818,8.64,7.361,6.695,7.759,7.617,6.719
+Finland,FIN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,4.005,4.402,5.016,6.395,5.804,5.637,4.345,4.021,4.515,4.598,3.915
+France,FRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+France,FRA,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,96.58,..,..,94,..,..,..,99.24,..
+France,FRA,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+France,FRA,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+France,FRA,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+France,FRA,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-0.56360521120294,1.01482529036589,1.26433376707931,2.3563745318161,1.25395937903011,1.91792832468178,1.35662417424136,1.61398842814866,-9.69248573077469,9.02560323453277,..
+France,FRA,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.6875,1.80315005779266,2.53989005088806,2.01315999031067,1.55781996250153,1.15230000019073,0.959379971027374,0.585349977016449,0.0373000018298626,0.117679998278618,0.18503999710083
+France,FRA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+France,FRA,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+France,FRA,Compensation of employees (% of expense),GC.XPN.COMP.ZS,26.2691281801413,26.3369705424735,26.1188792294358,25.8509232719974,25.4919404284413,25.3239121762666,25.9217722294502,25.6945307213876,24.1733536657867,23.5931628745559,23.5213877721008
+France,FRA,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+France,FRA,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+France,FRA,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+France,FRA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9999984764295,100,99.9999972602157,100,99.9999974727228,100,99.9999994044406,100,99.9999980735321,100,100
+France,FRA,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..,..,..,..,..,..,..,..,..,..
+France,FRA,Secure Internet servers,IT.NET.SECR,40871,54208,78843,126340,446252,991690,1367541,1971311,2440930,2689564,3227132
+France,FRA,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,4.26650883747211,4.53258062385818,4.2366463637383,4.67838137015214,5.15137252858059,5.37401395271466,5.41296527913485,5.52208226708401,5.85566091396961,5.72243967873599,5.3461127232552
+France,FRA,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.369890004396439,0.579230010509491,1.36187994480133,0.514980018138885,0.167199999094009,0.0584000013768673,0.0147200003266335,0.116329997777939,0.0184300001710653,0.0704500004649162,0.0146899996325374
+France,FRA,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,63.75,66.3399963378906,68.5299987792969,69.4400024414062,69.6699981689453,70.0800018310547,71.1531143188477,72.1900024414062,73.3635330200195,76.7396774291992,74.4087524414062
+France,FRA,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,50.727,50.838,50.336,50.256,50.308,50.403,50.608,50.621,50.167,51.487,52.071
+France,FRA,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,22.9153620923744,22.663116046796,22.7003416652518,22.5233712027481,22.7515510518864,22.8350778890513,22.0664611353756,21.8312831904694,24.7257393978511,23.8377246796514,23.5577842682256
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.313134751077172,0.576326674771792,0.956183052371557,1.1129123405747,1.09546440372048,2.29141999417021,1.86506607081999,1.84297181445896,-7.54045916249407,6.43520962104938,2.45475817660707
+France,FRA,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.46,27.04,27.4,26.82,39,39.33,39.03,39.5,43.8,40.13,38.35
+France,FRA,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,33.7,..,..,33.6,33.6,33.4,..,..
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,102.523162841797,102.276443481445,101.280349731445,101.989639282227,102.260429382324,102.417221069336,102.464408874512,102.447647094727,102.651626586914,102.580406188965,102.720581054688
+France,FRA,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,40.5996388103115,41.8347309605538,41.1779272273744,39.9551566874644,39.3431349506873,39.6709482751584,39.1714198164684,43.953301259421,44.6687843623552,47.6227985947804,50.2380713580625
+France,FRA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.5169993254558,88.7270507949146,88.3892908840155,88.410020808691,88.186210174663,88.266344321831,88.3540140197603,87.9070429452119,87.5955374433482,87.3783523329605,86.907461797677
+France,FRA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,9.841,9.913,10.273,10.354,10.057,9.41,9.018,8.415,8.01,7.874,7.308
+France,FRA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,5.693,6.255,6.314,6.3,5.696,5.224,5.435,5.102,5.206,5.324,4.736
+Germany,DEU,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Germany,DEU,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,98.76,..,..,99.14,..,..,..,99.98,..
+Germany,DEU,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-0.175414656567028,0.558276555576882,2.54025335535255,2.75949683908175,3.22399393298963,2.23145613589094,1.35670610910259,0.870083673267018,-4.72559059064749,2.07102663757261,..
+Germany,DEU,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.639859974384308,0.726790010929108,0.728980004787445,1.05325996875763,2.0388400554657,1.44248998165131,1.37347996234894,1.34546995162964,1.36312997341156,0.671159982681274,1.42470002174377
+Germany,DEU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Germany,DEU,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,Compensation of employees (% of expense),GC.XPN.COMP.ZS,7.07468165565645,7.29788687739382,7.36990395687144,7.4227109249902,7.44889028784498,7.45406321442142,7.67623028663769,7.8852591179898,7.17302266180811,6.18217265245103,6.36178658465275
+Germany,DEU,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Germany,DEU,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,345,345,345,345,345,345,..,..,..
+Germany,DEU,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9999993293627,99.999998584425,100,99.9999983056289,100,99.999998846436,100,99.9999995489977,100,100,99.9999985568823
+Germany,DEU,Progression to secondary school (%),SE.SEC.PROG.ZS,99.3411,99.68935,99.63376,99.90526,99.50305,..,..,..,..,..,..
+Germany,DEU,Secure Internet servers,IT.NET.SECR,176527,209774,271517,351083,957300,2825322,4676435,6478761,8109646,9425914,10553940
+Germany,DEU,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,..,..,..,..,..,..,..,..,..,..,7.00177428428283
+Germany,DEU,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.890890002250671,0.912020027637482,1.23104000091553,0.857710003852844,1.74626004695892,1.07963001728058,0.870909988880157,0.956470012664795,1.18655002117157,1.46276998519897,1.91470003128052
+Germany,DEU,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,82.0500030517578,82.3099975585938,83,83.0800018310547,83.0100021362305,82.9806747436523,83.4599990844727,83.5707550048828,83.6999969482422,80.9400482177734,80.7969970703125
+Germany,DEU,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,56.848,57.159,57.426,57.438,58.523,58.926,59.19,60.006,58.207,58.411,59.341
+Germany,DEU,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,13.6510266600129,13.0861685667028,12.5573284416707,12.342359013674,12.2814013283398,12.4052694082934,12.1974178787384,12.2480002072473,14.579975497469,16.6767750763659,15.8901519548288
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.418497594217598,0.437591303144671,2.20954343134872,1.49193152760772,2.22999986782015,2.68023111405891,0.981232606004738,1.07547163576423,-3.82676871619293,3.16381994194575,1.80620896724351
+Germany,DEU,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,40.1,40.73,40.51,40.46,39.71,40.79,40.77,41.17,43.27,42.83,42.88
+Germany,DEU,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,24.9,..,..,22.5,22.5,22,..,..
+Germany,DEU,"School enrollment, primary (% gross)",SE.PRM.ENRR,104.140548706055,103.638671875,102.62181854248,102.702461242676,101.406066894531,101.738708496094,102.645378112793,102.547470092773,101.996658325195,101.346549987793,100.218132019043
+Germany,DEU,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,39.8674969522419,40.7848302904056,41.219536865153,42.0146415750489,44.0350857375234,44.6436564713829,45.7177387772674,45.9314102644955,47.7842840794233,46.216050814583,46.7677953293075
+Germany,DEU,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.4276791617559,88.8044194543715,89.0455938398644,89.2487869258006,89.5778343141098,89.8431389785287,90.1008665677694,90.3832240407151,91.0960998951215,91.2498394630667,91.2534335735398
+Germany,DEU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.372,5.316,4.98,4.612,4.104,3.781,3.384,3.163,3.881,3.594,3.12
+Germany,DEU,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.372,2.408,2.471,2.263,2.179,1.99,1.906,1.872,2.544,2.404,1.877
+Greece,GRC,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Greece,GRC,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,87.52,..,..,85.47,..,..,..,94.88,..
+Greece,GRC,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Greece,GRC,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Greece,GRC,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Greece,GRC,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-4.00202344848289,-2.90407138692105,2.72856648207727,1.27480074164063,-0.113228748228394,1.38873985194823,0.574103473169657,2.73142090108219,-9.78023865566728,8.69091079214543,..
+Greece,GRC,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,3.82101988792419,6.14374017715454,3.29626989364624,4.08218002319336,3.66390991210938,3.64787006378174,3.19763994216919,3.36996006965637,2.39033007621765,0.993260025978088
+Greece,GRC,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Greece,GRC,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Greece,GRC,Compensation of employees (% of expense),GC.XPN.COMP.ZS,24.8293241450671,19.7888623896908,27.199697047372,25.9351132492561,27.1515743232007,27.635766553825,26.7872938047719,27.7296579450805,24.2530727441343,23.4374370338476,22.6321681822475
+Greece,GRC,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Greece,GRC,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,300,300,300,300,300,300,..,..,..
+Greece,GRC,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Greece,GRC,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9593510144483,99.9790200917084,99.9982288014899,100,100,99.9999979723882,99.9999999632639,99.9999992981031,100,99.9999952318863,99.9999994922049
+Greece,GRC,Progression to secondary school (%),SE.SEC.PROG.ZS,99.03985,98.88882,99.56539,97.13093,98.93394,..,..,..,..,..,..
+Greece,GRC,Secure Internet servers,IT.NET.SECR,1793,2330,3026,4436,15214,39746,54044,71270,95300,120324,136391
+Greece,GRC,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,4.50391951035432,7.2650484914582,8.07355026882126,10.1669047034253,10.4331869506799,11.997373253489,10.7157998546345,10.9783046101491,8.83237171883536,6.97082251307764,6.92333288644458
+Greece,GRC,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.93592000007629,2.26207995414734,2.8713800907135,2.17934989929199,1.42453002929688,1.97014999389648,2.98123002052307,3.1951699256897,3.72726011276245,3.84676003456116,0.00218000006861985
+Greece,GRC,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,55.6021575927734,56.8320388793945,56.2700004577637,57.9300003051758,54.6399993896484,59.9743156433105,60.8411026000977,63.7433700561523,65.2699966430664,67.1153335571289,68.630744934082
+Greece,GRC,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,39.113,37.398,37.765,38.726,39.516,40.556,41.581,42.657,42.462,43.33,45.754
+Greece,GRC,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,44.3134717944152,51.4208070761897,38.8465149987382,40.3790095307243,38.3439731535796,37.1903601225367,37.8730675930557,35.8510639075375,46.1931689292599,43.547568907751,40.1286622268274
+Greece,GRC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-7.08669678638024,-2.51599722189651,0.475695947137041,-0.196087629724133,-0.487173294301954,1.09214912017283,1.66842863602514,1.87948998590817,-9.31643576478743,8.37994378358083,5.55728707963308
+Greece,GRC,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.13,24.07,25.95,26.26,25.33,25.16,25.24,25.1,31.91,25.85,25.75
+Greece,GRC,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,37.9,..,..,34.5,34.5,33.5,..,..
+Greece,GRC,"School enrollment, primary (% gross)",SE.PRM.ENRR,99.5018005371094,98.7325210571289,97.959342956543,99.8291091918945,99.3706512451172,98.8267135620117,97.8011016845703,97.6437683105469,97.2831726074219,97.3313217163086,101.192031860352
+Greece,GRC,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,35.308469850122,32.1097762289068,34.3330773747685,32.943861869463,33.2510533259565,32.9473661968855,33.7039767375189,31.4069774724931,32.2260011496455,32.2341986096052,30.5216950278949
+Greece,GRC,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,63.3563545356327,63.0109821004254,64.0328599890661,65.0436951704983,65.9096047201302,66.1784607491356,66.5162817420752,68.1028270256872,68.1425002933653,68.1753708088274,62.8837641054992
+Greece,GRC,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,24.731,27.686,26.708,24.981,23.514,21.414,19.179,17.045,15.899,14.657,12.426
+Greece,GRC,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,18.911,20.856,20.503,19.734,17.827,16.324,14.209,12.086,11.557,10.943,8.876
+Hungary,HUN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Hungary,HUN,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,72.26,..,..,74.94,..,..,..,88.22,..
+Hungary,HUN,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Hungary,HUN,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Hungary,HUN,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Hungary,HUN,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-1.77645240330976,4.60562535393434,3.8500624167196,4.38904902432728,5.31644496826135,2.3833917973796,5.12012880216841,6.58399516642321,-4.47052935231321,2.92912837119954,..
+Hungary,HUN,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.15570998191833,1.61134004592896,1.93719005584717,2.52056002616882,2.85660004615784,3.11308002471924,3.90091991424561,4.37389993667603,4.54261016845703,5.37253999710083,4.78233003616333
+Hungary,HUN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Hungary,HUN,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Hungary,HUN,Compensation of employees (% of expense),GC.XPN.COMP.ZS,17.7612690683184,20.3738470419196,21.8132526903187,23.4190610775096,24.6770044284732,25.1547912594654,25.9507184306995,26.4785314842672,24.254850906784,23.234547466905,22.7294290565927
+Hungary,HUN,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Hungary,HUN,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Hungary,HUN,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Hungary,HUN,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9697006074986,99.9699743237225,99.9702519413688,99.9705261412823,99.9708056888519,99.9710917206745,99.99999908101,100,99.9999999799691,99.9999988534441,100
+Hungary,HUN,Progression to secondary school (%),SE.SEC.PROG.ZS,99.32605,99.61025,99.64058,99.84498,99.50456,..,..,..,..,..,..
+Hungary,HUN,Secure Internet servers,IT.NET.SECR,3900,5099,6592,9120,40492,133382,188120,256400,319932,405489,493765
+Hungary,HUN,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,9.47369914991514,9.93087229122764,8.53741171287908,8.21715459074335,9.60256392469865,10.2612691911582,10.9666434812049,11.7071381480151,10.1245463509826,8.89330356644703,8.94783227919207
+Hungary,HUN,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.68873000144958,2.51460003852844,3.55278992652893,4.28495979309082,4.96833992004395,4.86931991577148,4.45279979705811,4.34871006011963,4.27849006652832,3.86026000976562,3.68225002288818
+Hungary,HUN,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,77.629997253418,78.4899978637695,74.120002746582,75.0999984741211,76.0599975585938,76.9970626831055,78.1045227050781,78.5931243896484,80.0100021362305,81.4102630615234,82.6402359008789
+Hungary,HUN,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,45.976,46.87,49.534,51.026,52.847,53.935,54.628,55.147,54.482,57.134,58.164
+Hungary,HUN,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,32.9778518063012,36.6511467172256,34.7618267707741,32.5105745416165,32.4198861474846,32.2381767428886,30.4774269885871,30.1355627018873,35.2580883528635,35.3943141756947,35.4863493682184
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-1.25022602347063,1.80252210082266,4.23220980614269,3.7073159793626,2.20100189293856,4.27197601620695,5.36234836176223,4.86422573511891,-4.48704604765308,7.06122060972912,4.58340767295068
+Hungary,HUN,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.41,23.87,22.27,22.86,18.13,23.54,24.36,26.07,25.12,27.36,23
+Hungary,HUN,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,33.2,..,..,32.2,32.2,31.8,..,..
+Hungary,HUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,101.069969177246,100.705917358398,101.314437866211,100.827682495117,99.0286331176758,98.431266784668,96.7522125244141,96.6208801269531,97.1749420166016,101.458427429199,103.47647857666
+Hungary,HUN,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,28.7961863444036,27.8223761591203,28.4405065287979,28.7093138543687,30.8099516938472,30.7774157552303,28.7919724919695,28.7834560981554,28.9033633072308,25.6717035464556,29.2063314590818
+Hungary,HUN,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.265820190921,88.724179294177,88.6747194153676,88.9919005773473,89.1830018276533,89.3785758315512,89.5834378159223,89.1720989537478,87.7089370397527,87.4916236660344,87.3245336420737
+Hungary,HUN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,11.003,10.177,7.725,6.813,5.115,4.156,3.709,3.419,4.25,4.045,3.609
+Hungary,HUN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,4.549,4.001,3.144,2.417,1.803,1.618,1.461,1.544,1.845,1.744,1.447
+Ireland,IRL,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Ireland,IRL,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,94.71,..,..,95.34,..,..,..,99.66,..
+Ireland,IRL,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Ireland,IRL,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Ireland,IRL,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Ireland,IRL,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-0.40883038805913,6.31294900502553,7.86750091240268,5.4021021797422,5.59854786206147,2.87022214958613,3.83440039356881,5.05155485277893,-5.5540960571347,17.4557283590163,..
+Ireland,IRL,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.430330008268356,..,0.192379996180534,0.302509993314743,0.370999991893768,0.492410004138947,0.53684002161026,0.63279002904892,0.558239996433258,0.365130007266998,0.450789988040924
+Ireland,IRL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Ireland,IRL,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Ireland,IRL,Compensation of employees (% of expense),GC.XPN.COMP.ZS,24.7145490924075,24.3385631922413,25.4050337431067,24.5407912929394,25.7732191297152,30.1894409817639,30.0927483355111,31.0811259234497,27.8366566690695,27.8005386467197,30.0568301007036
+Ireland,IRL,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,253,253,253,253,253,253,..,..,..
+Ireland,IRL,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,305,305,305,305,305,305,..,..,..
+Ireland,IRL,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Ireland,IRL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,96.4189638953027,96.351241208789,96.2832427205083,96.214981641015,96.1464377731388,96.0774432374184,96.0079441237886,96.0041044843285,96.0000577460047,95.9958314677729,95.9914050398065
+Ireland,IRL,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..,..,..,..,..,..,..,..,..,..
+Ireland,IRL,Secure Internet servers,IT.NET.SECR,11346,12215,13078,15020,55844,185553,338734,470811,577386,582249,702503
+Ireland,IRL,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,7.37427317357875,7.54114085828058,9.75377067054334,12.4905010662019,13.0090654023298,12.343982221468,13.1166300272989,11.9168558564756,10.3356476538231,10.8833821316832,10.5820195890129
+Ireland,IRL,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0578900016844273,0.0726900026202202,0.0373600013554096,0.0488200001418591,0.0116400001570582,0.028659999370575,0.00173999997787178,0.1372299939394,0.0423300005495548,0.763459980487823,1.10953998565674
+Ireland,IRL,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,67.6214752197266,69.2389221191406,72.7109985351562,73.0481796264648,73.1577072143555,70.7799987792969,74.7869262695312,75.3639297485352,76.9801483154297,79.0847473144531,79.5170516967773
+Ireland,IRL,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,52.114,53.453,54.431,55.691,56.971,57.818,58.594,59.253,57.684,59.587,61.728
+Ireland,IRL,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,40.3044815820797,38.3890650643177,35.2953214131061,27.4742789211628,26.3319410996777,21.4550131659373,20.6912549955585,19.6361430263718,21.8195205342338,20.2335875797285,17.4258859658328
+Ireland,IRL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.129692110994981,1.17461437395743,8.828998727303,24.4752533362377,1.76555687937534,9.31125930624903,8.47029545192876,5.2977280259237,6.61719466830968,15.1252197949572,9.43302211023355
+Ireland,IRL,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,42.09,41.86,40.91,41.3,39.58,37.78,35.24,34.99,39.88,29.02,38.61
+Ireland,IRL,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,23.8,..,..,21.4,21.4,20.8,..,..
+Ireland,IRL,"School enrollment, primary (% gross)",SE.PRM.ENRR,102.118339538574,101.958343505859,101.542236328125,101.184638977051,101.341491699219,100.852783203125,101.03288269043,100.980857849121,101.368812561035,99.9838485717773,99.6199417114258
+Ireland,IRL,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,52.8060900851494,51.8047960061157,51.0280863575247,53.887468821874,54.2046657874255,54.4826063348203,56.3328924905085,56.3355714856243,59.7677839600907,60.0183429808188,63.8017903824265
+Ireland,IRL,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.171491393694,82.9808559635201,83.1954144829726,83.534552999699,83.7699411306838,84.3940958468447,84.9842403098842,85.6013908919459,85.4781019590211,85.9371942785818,86.0440612873673
+Ireland,IRL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,15.451,13.735,11.858,9.908,8.374,6.713,5.741,4.95,5.623,6.364,4.501
+Ireland,IRL,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,7.964,7.499,6.902,5.637,5.026,4.048,3.812,3.22,4.124,4.128,3.336
+Italy,ITA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Italy,ITA,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,87.33,..,..,93.79,..,..,..,97.29,..
+Italy,ITA,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Italy,ITA,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Italy,ITA,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Italy,ITA,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-3.89358221502201,-1.53740324471987,1.0619724892303,0.668545966612498,3.89307958784624,1.73928298280197,1.46570337692997,0.392058921859757,-9.43300445475607,6.172560660508,..
+Italy,ITA,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.289920002222061,0.600380003452301,0.843959987163544,0.980870008468628,1.16180002689362,1.15609002113342,1.15778005123138,1.17201995849609,1.18927001953125,1.93376994132996,2.30598998069763
+Italy,ITA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Italy,ITA,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Italy,ITA,Compensation of employees (% of expense),GC.XPN.COMP.ZS,18.5743633383369,18.6973039566326,18.45292265526,18.0939953162738,18.2847556848853,18.3538444130956,19.1130959545764,19.0691839333607,16.1903067785812,15.2115849199967,15.31638390235
+Italy,ITA,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Italy,ITA,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Italy,ITA,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Italy,ITA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.8656091397081,99.8913216069004,99.9170340740928,99.9170340740928,99.9170340740928,99.9170340740928,99.9170340740928,99.9170340740928,99.9170340740928,99.9170340740928,99.9170340740928
+Italy,ITA,Progression to secondary school (%),SE.SEC.PROG.ZS,99.89623,99.88062,99.92509,99.92865,99.95024,..,..,..,..,..,..
+Italy,ITA,Secure Internet servers,IT.NET.SECR,18058,22587,29973,38140,79125,468800,740648,914642,1229028,1467886,1656567
+Italy,ITA,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,5.38561894112228,5.40437637297026,5.88069247298708,6.18553029060669,5.49301015373371,6.63508479542177,6.33332010943286,6.71281171151418,6.60331222306056,6.12242463285733,5.89043874888019
+Italy,ITA,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.336490005254745,0.885320007801056,1.23084998130798,1.49433994293213,1.66491997241974,1.63794004917145,1.57104003429413,1.59695994853973,1.48284995555878,2.10580992698669,2.50709009170532
+Italy,ITA,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,47.2799987792969,48.1467742919922,48.6399993896484,49.1500015258789,50.1106872558594,51.0024604797363,51.9755325317383,52.5768356323242,52.4599990844727,52.4379005432129,52.7956314086914
+Italy,ITA,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,43.853,42.865,42.836,43.142,43.715,44.228,44.619,44.928,44.064,43.96,45.138
+Italy,ITA,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,30.8253958931608,30.848401734353,30.9044653649957,30.8153840112846,30.7040366159237,30.3823671271699,29.7143849421856,29.1911300401832,37.1494229791509,36.9854658888415,36.0000260845758
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.98090576823772,-1.84106545088248,-0.00454754236383792,0.778304350716581,1.29346273155907,1.66785904106857,0.925810941012742,0.483198316597154,-8.97419212060699,8.3102399077017,3.98589744251659
+Italy,ITA,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,34.14,34.88,35.55,35.45,34.37,34.8,33.57,33.42,40.6,35.64,34.19
+Italy,ITA,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,23.8,..,..,23.3,23.3,23.1,..,..
+Italy,ITA,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.028991699219,101.111892700195,100.752258300781,100.37190246582,99.8127670288086,102.803092956543,102.894989013672,102.959373474121,102.636672973633,101.089881896973,101.56453704834
+Italy,ITA,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,53.421794258019,53.9417603125586,52.9264220251568,53.395258432289,51.9425411453666,52.2765394081487,51.7790722319397,52.5266273663423,54.854661622694,52.8715860884199,53.5306995578577
+Italy,ITA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.0938051646869,75.1788071800967,75.3203584552031,75.6205147055871,76.0650020994059,76.569822505864,77.0896231228248,77.260392161872,77.481225437084,78.1681807214423,78.4579757444498
+Italy,ITA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,10.655,12.149,12.683,11.896,11.688,11.211,10.61,9.952,9.164,9.497,8.069
+Italy,ITA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,6.651,7.298,7.824,7.098,6.749,6.372,5.921,5.704,5.331,5.049,4.087
+Latvia,LVA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Latvia,LVA,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,90.22,..,..,93.22,..,..,..,96.62,..
+Latvia,LVA,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Latvia,LVA,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Latvia,LVA,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Latvia,LVA,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,4.67727031431997,3.52339860435423,2.16376666339045,4.26054933674654,5.74634458328921,4.51602834549089,4.63445945739893,1.68193592325412,-1.66394414050156,5.2047342692952,..
+Latvia,LVA,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.23418998718262,1.60473001003265,1.54703998565674,1.85964000225067,1.72745001316071,1.29531002044678,0.978330016136169,1.74196004867554,1.66895997524261,1.32161998748779,1.3436199426651
+Latvia,LVA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Latvia,LVA,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Latvia,LVA,Compensation of employees (% of expense),GC.XPN.COMP.ZS,21.6112558268479,22.6119493664949,22.0049049383604,23.0517923810102,24.6321937764968,25.508274317743,25.4144658141509,25.4636108275608,23.7739193960286,21.9417088175797,22.9414576870332
+Latvia,LVA,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Latvia,LVA,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,150,150,150,150,150,150,..,..,..
+Latvia,LVA,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Latvia,LVA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,98.3716321139667,98.4241537968664,98.4765906084133,98.5289621895309,98.5813642330942,98.6337529130144,98.6860670993294,98.7382545669579,98.7902639963924,98.8420437979057,98.8935273885372
+Latvia,LVA,Progression to secondary school (%),SE.SEC.PROG.ZS,97.89605,98.34138,98.37766,98.89527,98.9753,..,..,..,..,..,..
+Latvia,LVA,Secure Internet servers,IT.NET.SECR,1141,1430,1824,2596,5758,23206,27952,38004,38634,42538,41856
+Latvia,LVA,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,8.71126431069441,8.91123820977197,8.58479537618779,9.03147287308198,8.49258521521282,9.72233088632771,11.0621409236515,8.50213272939958,9.25494408594655,8.96661774433405,9.43251709763605
+Latvia,LVA,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.46035003662109,1.86098003387451,1.96988999843597,2.03865003585815,1.73730003833771,1.5161999464035,1.1314400434494,1.17625999450684,1.3022700548172,1.27524995803833,1.4437700510025
+Latvia,LVA,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,86.0899963378906,86.8600006103516,87.8000030517578,88.2900009155273,88.7300033569336,87.9997253417969,90.3000030517578,90.9300003051758,90.1376037597656,88.1561660766602,88.7702789306641
+Latvia,LVA,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,50.74,52.381,52.844,54.135,54.592,55.53,56.887,57.363,56.68,55.664,56.973
+Latvia,LVA,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,31.5564534181213,30.9358490219837,33.0660269057591,31.8474682452896,30.727110694131,30.4163550392486,30.7830661450033,31.960603227786,36.2635166015169,40.1245804819825,35.6353628829914
+Latvia,LVA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,7.04224716054507,2.00796687876637,1.90217268380506,3.88526005426763,2.36861474664423,3.31247593587459,3.99051924069269,0.587502383494098,-3.51380284197906,6.73173527824665,2.95473177143623
+Latvia,LVA,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.51,18.92,17.28,20.01,19.06,18.27,16.54,18.7,21.06,22.32,18.56
+Latvia,LVA,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,38.5,..,..,37.2,37.2,37,..,..
+Latvia,LVA,"School enrollment, primary (% gross)",SE.PRM.ENRR,101.048713684082,100.386268615723,99.8528213500977,99.3933181762695,99.1985473632812,99.3678436279297,99.614387512207,99.9834365844727,99.8328475952148,99.7407684326172,99.41796875
+Latvia,LVA,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,18.5494826337291,18.2951706671272,17.5216626693396,17.5411330291621,18.5028355893338,18.7296898212637,13.9186631654987,9.56057044754484,12.5351651649314,14.7683532088024,15.5246481500245
+Latvia,LVA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.6341566250199,88.4451191320161,88.4559637466775,87.3894881499013,87.122246734601,87.8556978068523,88.4833082309079,88.4153163309959,87.3188030248565,87.0098688135266,86.6008300937649
+Latvia,LVA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,15.047,11.867,10.846,9.873,9.643,8.715,7.412,6.312,8.098,7.513,6.815
+Latvia,LVA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,6.473,6.002,5.561,4.945,4.288,4.078,3.723,4.233,3.791,4.482,3.736
+Lithuania,LTU,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Lithuania,LTU,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,77.91,..,..,82.88,..,..,..,93.53,..
+Lithuania,LTU,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Lithuania,LTU,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Lithuania,LTU,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Lithuania,LTU,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,3.09292228242313,4.42654061679664,5.40564937977568,0.597210204404391,3.80447807975114,5.01689400044891,3.73697708940325,4.6252488445855,0.733191441291027,1.6744574471316,..
+Lithuania,LTU,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.148259997367859,0.0124099999666214,5.42633008956909,4.89234018325806,4.72700977325439,4.14998006820679,2.14716005325317,0.263619989156723,0.397069990634918,0.441460013389587,0.565729975700378
+Lithuania,LTU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Lithuania,LTU,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Lithuania,LTU,Compensation of employees (% of expense),GC.XPN.COMP.ZS,21.934516282382,22.1211515760085,23.147504516955,22.5075404871537,23.4187343933472,24.1844108933798,17.4468635034135,21.3103101265799,18.7246504654912,19.0884425258463,18.7831064944703
+Lithuania,LTU,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Lithuania,LTU,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,58,58,58,58,58,58,..,..,..
+Lithuania,LTU,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Lithuania,LTU,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,95.18639409975,95.6610147705921,96.1335981896812,96.6041391284408,97.0737449088059,97.5420664494059,97.9905320928671,98.0014728864191,98.0133504964109,98.0259726580572,98.0394016663634
+Lithuania,LTU,Progression to secondary school (%),SE.SEC.PROG.ZS,99.30393,99.26737,99.51795,99.7004,99.21346,..,..,..,..,..,..
+Lithuania,LTU,Secure Internet servers,IT.NET.SECR,1344,1882,2208,3443,12556,36934,51176,87889,131718,150863,188268
+Lithuania,LTU,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,11.1210067595453,11.6346593720184,11.2608745499325,9.89325622703281,7.74932763930901,8.25494542625541,8.05900717149571,6.41309834562661,5.89539260995003,5.48365716205432,5.03877701688608
+Lithuania,LTU,Children out of school (% of primary school age),SE.PRM.UNER.ZS,..,0.137899994850159,0.49702000617981,0.34909999370575,0.192770004272461,0.141169995069504,0.374949991703033,0.584789991378784,0.513300001621246,0.54355001449585,0.0236399993300438
+Lithuania,LTU,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,81.5500030517578,82.3099975585938,83.3300018310547,84.3099975585938,86.2200012207031,87.3099975585938,88.5540771484375,89.6794509887695,89.870002746582,91.1113204956055,91.9948425292969
+Lithuania,LTU,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,50.014,51.173,52.624,53.762,55.587,56.315,57.765,58.204,57.3,57.86,59.142
+Lithuania,LTU,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,22.7509365937544,22.6587928192324,21.7361346070949,22.5617044297847,21.9419960914235,20.5675061843756,29.2508291620918,24.8465721225609,30.9190179441564,27.6319866740576,26.7201072320781
+Lithuania,LTU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.84386474906337,3.55007284270488,3.53700987901611,2.02458395469182,2.51882827307178,4.28259695120761,3.99331032795327,4.6656783812234,-0.0246124952916773,6.28471003860921,2.44017546498974
+Lithuania,LTU,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.06,21.61,22.08,21,19.6,23.83,22.78,22.44,27.5,22.86,24.22
+Lithuania,LTU,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,34,..,..,32.3,32.3,32,..,..
+Lithuania,LTU,"School enrollment, primary (% gross)",SE.PRM.ENRR,101.85440826416,101.754577636719,100.977882385254,101.542343139648,104.223098754883,106.410949707031,106.05738067627,104.706062316895,103.468246459961,101.152992248535,101.905830383301
+Lithuania,LTU,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,30.6952859016476,31.582499084439,31.5055393102877,32.2925643479604,33.0326098098995,32.1505319367316,33.2274981009219,43.8711221822683,43.1160720172586,45.2020653119785,46.9413564569559
+Lithuania,LTU,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.9463617387146,88.2273639565267,87.8959606820372,87.7293393994969,87.6656729645893,88.0724984187405,88.3338463443542,88.3429795135764,88.2402482983682,88.3727529352801,87.7823829778475
+Lithuania,LTU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,13.365,11.77,10.698,9.12,7.862,7.073,6.147,6.255,8.487,7.112,5.956
+Lithuania,LTU,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,5.641,5.11,4.198,3.676,2.906,2.903,2.803,2.904,4.087,4.044,3.514
+Luxembourg,LUX,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Luxembourg,LUX,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,96.17,..,..,98.77,..,..,..,..,..
+Luxembourg,LUX,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Luxembourg,LUX,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Luxembourg,LUX,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Luxembourg,LUX,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,15.7158871958768,-3.91589623342601,5.99849289337043,-11.4300643140278,6.60497765692078,11.0143492838114,0.894494156960278,-5.74986444500128,4.31411069166595,12.2689344590974,..
+Luxembourg,LUX,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,1.81262004375458,3.93493008613586,3.28783988952637,4.23313999176025,3.16200995445251,4.29525995254517,3.88095998764038,3.87142992019653,4.42357015609741,3.94481992721558,1.61542999744415
+Luxembourg,LUX,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Luxembourg,LUX,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Luxembourg,LUX,Compensation of employees (% of expense),GC.XPN.COMP.ZS,22.2453708229569,22.3094790081707,22.6870904540642,22.9281073569482,22.762628502592,22.8070365285671,23.1594680582384,23.4564539417999,22.9067865133283,23.627695573028,23.1228554856044
+Luxembourg,LUX,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Luxembourg,LUX,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Luxembourg,LUX,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Luxembourg,LUX,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9871988643625,99.9652463040047,99.9446049649796,99.92517284659,99.9068737103635,99.8896073148958,99.8733042332159,99.8767046171651,99.8799371174608,99.8830082695794,99.8859478338476
+Luxembourg,LUX,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..,..,..,..,..,..,..,..,..,..
+Luxembourg,LUX,Secure Internet servers,IT.NET.SECR,1232,1765,2511,3133,6678,25651,26234,24716,28308,31491,41732
+Luxembourg,LUX,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,6.2837806517406,6.39190326438411,6.49562441480695,7.01051761355808,7.35565373285554,8.35098240479585,7.97870895703011,7.44086665982223,8.63865053727864,7.85038707088602,8.14304909644451
+Luxembourg,LUX,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.93862998485565,2.71701002120972,3.02064990997314,2.62757992744446,2.61967992782593,3.30612993240356,2.44804000854492,1.47956001758575,1.59484994411469,1.65278995037079,0.345420002937317
+Luxembourg,LUX,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,76.25,78.3000030517578,79.5699996948242,69.0699996948242,75.3423461914062,72.4430084228516,74.2424240112305,75.2209701538086,74.4377670288086,76.9224014282227,77.4083404541016
+Luxembourg,LUX,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,55.823,55.728,56.176,56.43,55.867,56.022,56.542,57.249,56.677,58.745,58.732
+Luxembourg,LUX,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,29.0221874375487,28.7816072390528,28.0260581106619,27.7870590804558,27.4688911207551,28.1549653848703,29.0886234338377,29.7184183972172,32.412834693651,29.5269417748766,30.4803015645758
+Luxembourg,LUX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.64990202978652,3.17179049916005,2.62308601577192,2.26978448419565,4.97819043681629,1.31718766293677,1.21932191856359,2.9158479150005,-0.909829798886719,7.16840198697749,1.38018589083207
+Luxembourg,LUX,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,32.62,33.85,32.82,31.23,31.74,32.32,32.11,31.22,35.73,40.94,36.17
+Luxembourg,LUX,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,23.2,..,..,21.6,21.6,21.1,..,..
+Luxembourg,LUX,"School enrollment, primary (% gross)",SE.PRM.ENRR,98.7363967895508,97.7293472290039,97.3061294555664,97.4022521972656,97.4095687866211,96.7351989746094,97.3428497314453,98.3345489501953,98.6442489624023,98.4758377075195,99.484260559082
+Luxembourg,LUX,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,46.9688876250083,47.3281891783594,46.2019278636663,50.7248044506562,50.3380876392985,50.1753762540047,52.3859856770443,51.8570907055652,51.5542372484037,51.1828251249713,51.8543154066133
+Luxembourg,LUX,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.1197934721877,91.1503898585252,91.2430112126119,90.216058899175,89.9385218514724,90.7071082194814,91.3945342304224,91.2343260450981,90.6015388202378,89.6938759333534,89.3085685581372
+Luxembourg,LUX,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.03,6.045,6.044,6.796,6.669,5.523,5.589,5.592,6.766,5.571,4.588
+Luxembourg,LUX,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.47,4.094,3.975,4.754,3.418,3.817,4.265,4.026,4.763,4.019,3.695
+Malta,MLT,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Malta,MLT,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,96.33,..,..,97.36,..,..,..,96.45,..
+Malta,MLT,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Malta,MLT,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Malta,MLT,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Malta,MLT,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,..,..,..,..,..,..,..,..,..,..,..
+Malta,MLT,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.0599000006914139,0.732469975948334,0.197879999876022,0.343219995498657,0.14640000462532,0.347279995679855,0.550069987773895,0.684549987316132,1.25565004348755,1.19350004196167,1.60627996921539
+Malta,MLT,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Malta,MLT,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Malta,MLT,Compensation of employees (% of expense),GC.XPN.COMP.ZS,30.7133322997677,30.6988782142195,30.9424026383781,30.8733080651342,31.6589885896592,31.7389861751153,30.5452491761895,30.8147822032603,27.1331551072305,27.7360982143403,27.2276974658819
+Malta,MLT,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,230,230,230,230,230,230,..,..,..
+Malta,MLT,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,370,370,370,370,370,370,..,..,..
+Malta,MLT,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Malta,MLT,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9999999041683,99.999997297169,100,99.9999975971148,100,100,100,100,100,99.9999991222723,100
+Malta,MLT,Progression to secondary school (%),SE.SEC.PROG.ZS,98.95627,97.79729,96.78849,98.58775,98.89143,..,..,..,..,..,..
+Malta,MLT,Secure Internet servers,IT.NET.SECR,1091,1108,1246,1570,1473,6600,6986,5464,7445,3205,2710
+Malta,MLT,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,6.06773694234154,6.55250708579672,5.46054456114402,5.90027045402132,6.40502020846628,7.31420925681032,7.75955914240081,8.12309700319801,7.93402953773633,7.56584920786071,7.25771378606732
+Malta,MLT,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.267879992723465,0.885439991950989,1.17302000522614,1.24618995189667,1.27506995201111,1.05804002285004,0.859640002250671,2.29421997070312,3.63435006141663,5.06799983978271,6.87698984146118
+Malta,MLT,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,32.439998626709,34.4799995422363,35.7700004577637,36.9099998474121,38.0699996948242,43.7824783325195,45.2200012207031,48.5946006774902,48.2700004577637,53.1921730041504,55.2392654418945
+Malta,MLT,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,53.068,54.781,56.222,56.973,58.437,59.99,62.433,64.001,64.671,66.462,68.565
+Malta,MLT,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,40.3654848516803,39.6105621015148,38.4260174535576,35.9958431490196,35.356739716676,33.510387083312,34.0171090585389,33.2752939014666,42.8185200245486,40.7491877309157,37.7052648848872
+Malta,MLT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.11770637605775,5.47335591422899,7.6335384644276,9.6081323482308,3.38145047586738,10.8692692319326,7.41626982344488,7.1242612165712,-8.15677876534716,12.5139471706304,8.07553911825327
+Malta,MLT,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,33.61,33.26,37.51,36.87,31.84,36.73,34.2,28.51,38.1,35.69,37.26
+Malta,MLT,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,26.3,..,..,24.5,24.5,24,..,..
+Malta,MLT,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.937980651855,101.232513427734,100.673332214355,100.305511474609,99.9404602050781,99.609992980957,99.5983276367188,98.1748886108398,96.802490234375,95.4136581420898,93.5346603393555
+Malta,MLT,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,47.3398764562272,49.0856686586121,47.3400812189612,48.8414738053548,50.0278255105634,50.6629350485136,49.5662382108321,51.2638424447689,52.5921590785488,54.5608401022021,53.6949154372615
+Malta,MLT,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.4774347586529,85.2507530239649,85.1554769785582,85.0536115197027,84.9165856075761,84.8870738358363,84.8312265592443,84.5632282787206,84.5613409820775,84.510394316932,84.9316308028552
+Malta,MLT,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.203,6.115,5.737,5.389,4.694,4.008,3.665,3.627,4.357,3.403,2.929
+Malta,MLT,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.172,2.358,2.602,1.976,1.693,1.98,1.896,2.564,2.974,1.771,2.09
+Netherlands,NLD,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Netherlands,NLD,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,99.3,..,..,99.64,..,..,..,99.73,..
+Netherlands,NLD,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Netherlands,NLD,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Netherlands,NLD,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Netherlands,NLD,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-2.12519368802801,0.276433919158947,1.29064320725804,3.28345123564888,0.85312271040776,4.73207680499574,3.01507402980721,0.364438337200838,-6.52218666577829,5.8596986020635,..
+Netherlands,NLD,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,0.254009991884232,..,..,0.290529996156693,0.309899985790253,0.412680000066757,0.427870005369186,0.343529999256134,0.355250000953674,0.368950009346008,0.435589998960495
+Netherlands,NLD,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Netherlands,NLD,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Netherlands,NLD,Compensation of employees (% of expense),GC.XPN.COMP.ZS,9.38028818283218,11.1805480268146,10.9568303386725,10.6098216576775,11.0244242360112,11.3593154385776,11.352579800634,11.2913906571208,10.0961909728437,9.63392877234475,10.2900739951103
+Netherlands,NLD,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Netherlands,NLD,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Netherlands,NLD,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Netherlands,NLD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,100,99.9999988536471,100,100,99.9999971771538,100,100,100,100,100,99.9999974368313
+Netherlands,NLD,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..,..,..,..,..,..,..,..,..,..
+Netherlands,NLD,Secure Internet servers,IT.NET.SECR,81309,95253,121508,164806,410955,1206251,1733183,2259681,2387096,2877760,3207131
+Netherlands,NLD,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,4.55918624957978,4.79495406116236,4.59325915581999,5.07310585106144,5.45629052490244,5.70534420599312,5.8296435338352,5.11882800340577,5.4532980022619,6.69556073284176,5.97169142822162
+Netherlands,NLD,Children out of school (% of primary school age),SE.PRM.UNER.ZS,..,..,..,..,..,0.202069997787476,0.260549992322922,0.126550003886223,0.173940002918243,0.191049993038177,0.405660003423691
+Netherlands,NLD,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,67.0999984741211,69.5299987792969,69.4199981689453,69.5699996948242,69.9899978637695,70.5940017700195,71.0999984741211,71.4319534301758,72.9599990844727,73.850830078125,74.0509719848633
+Netherlands,NLD,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,61.223,60.259,59.587,59.961,60.228,60.938,61.798,62.608,62.062,64.168,65.505
+Netherlands,NLD,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,26.6839314757583,25.9307485809197,26.0185240335934,26.391722994516,25.6401966860407,24.5257713243721,24.6638509432329,24.9919132162031,30.0352780184048,29.9602452138615,28.2547892700321
+Netherlands,NLD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-1.03035399148436,-0.130175288449919,1.42339539510084,1.95916972105708,2.19171371926123,2.91090251315005,2.36091509478513,1.95558841574046,-3.88608391819609,6.19185710427116,4.32891831787197
+Netherlands,NLD,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,56.99,58.21,56.74,57.79,56.65,56.45,58.08,57.43,59.58,60.52,60.41
+Netherlands,NLD,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,24.6,..,..,22.6,22.6,22.2,..,..
+Netherlands,NLD,"School enrollment, primary (% gross)",SE.PRM.ENRR,107.048240661621,..,..,106.059417724609,105.680366516113,105.039421081543,104.561111450195,104.578910827637,104.338813781738,104.378402709961,104.215446472168
+Netherlands,NLD,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,46.1373356690813,45.1641178234494,45.7419941408223,48.1501267036504,47.6875781441332,50.3277485989261,49.7436299753997,50.6401436295095,49.8969815596992,50.6147031942068,53.9468332742015
+Netherlands,NLD,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.637204386266,83.94832777461,83.3869955214032,83.1637912754537,83.1857127971038,83.2428623299679,83.3150279324384,83.3822583731389,82.7546796480899,83.1153840216502,83.640352364759
+Netherlands,NLD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.821,7.241,7.419,6.872,6.007,4.837,3.832,3.379,3.82,4.209,3.526
+Netherlands,NLD,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.437,4.242,4.075,3.92,3.268,2.992,2.526,2.365,2.518,2.812,2.547
+Poland,POL,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Poland,POL,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,77.86,..,..,86.73,..,..,..,95.72,..
+Poland,POL,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,74.275614256857,..,..,78.6752259823674,76.0475582687984,67.0792449761856,..,..,..,..,..
+Poland,POL,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,60.5552662415094,..,..,66.8526432010522,64.3105622722194,54.8017674593013,..,..,..,..,..
+Poland,POL,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,22.6827292694566,..,..,24.9562160100469,21.7567013755857,21.3157701411078,..,..,..,..,..
+Poland,POL,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,1.76840492290611,1.16913996493525,4.60119453567293,5.91499095492019,2.65728808176647,5.20819583497803,5.63440592230282,5.30134446160912,-0.779877250371428,5.14723324076358,..
+Poland,POL,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,3.31117010116577,3.57767009735107,3.89670991897583,4.20299005508423,4.49336004257202,4.72704982757568,3.68045997619629,4.69919013977051,4.41947984695435,0.0364499986171722,0.0623200014233589
+Poland,POL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Poland,POL,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Poland,POL,Compensation of employees (% of expense),GC.XPN.COMP.ZS,19.3523975389655,19.8253676234756,21.3965116923289,21.2048577860606,20.8950557337287,19.1793053040748,20.8831648743328,20.813626259282,16.7995068687201,18.6227543996913,18.1152611699579
+Poland,POL,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Poland,POL,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Poland,POL,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,64.4141259102048,..,..,61.0839338858626,61.7621031056298,62.9333763671349,..,..,..,..,..
+Poland,POL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,96.9696751320083,96.237152990062,95.5020825058949,94.7645729803903,94.0267326823036,93.2894896723265,92.5535483138945,91.8196871808371,91.0888058086284,90.3615703186745,90.3695800959207
+Poland,POL,Progression to secondary school (%),SE.SEC.PROG.ZS,99.29776,99.37275,99.46747,99.52425,99.7691,..,..,..,..,..,..
+Poland,POL,Secure Internet servers,IT.NET.SECR,15198,19695,25891,36309,94640,248163,616219,782319,954351,1161013,1280389
+Poland,POL,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,8.69342901326147,9.09819450894361,8.93797496385428,9.36957556840662,9.51434312460356,10.0177818195465,8.74212583250818,8.52328344979497,7.80919902161207,6.74652828003407,6.53494996516391
+Poland,POL,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.4054799079895,3.7704598903656,4.16347980499268,..,..,4.87842988967896,4.576819896698,3.40893006324768,1.47061002254486,0.0214900001883507,0.0187699999660254
+Poland,POL,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,82.0899963378906,82.8499984741211,83.4899978637695,83.8682327270508,84.8600006103516,85.4903793334961,86.0824737548828,86.5674667358398,87.7799987792969,87.8078155517578,88.1990509033203
+Poland,POL,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,50.564,50.343,51.307,52.177,53.015,53.934,54.413,54.605,54.579,56.236,56.724
+Poland,POL,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,23.9253840826073,23.9081518851917,22.4803957773711,22.0932948043088,22.7813976327498,24.2885544337939,21.5318461363382,22.1732040138222,28.869362339969,24.9181203829891,24.2987669433895
+Poland,POL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.54522157125609,0.85655708060645,3.83695849351797,4.38329863507276,2.95350884167718,5.14001757409446,5.94520847705498,4.44998787878788,-2.02007073357655,6.93498038387065,5.63756676578897
+Poland,POL,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.49,24.46,23.22,22.49,22.08,22.78,25.68,25.66,28.72,19.64,20.67
+Poland,POL,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,27.2,..,..,24.7,24.7,24,..,..
+Poland,POL,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.680816650391,100.073501586914,99.5637130737305,..,..,97.6803283691406,94.4897613525391,94.9449615478516,82.211540222168,96.6018218994141,100.594268798828
+Poland,POL,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,25.9632419774769,25.1343939417548,25.0057997261033,25.2642122475561,24.8751876318382,24.9642410423063,25.7825984463189,26.5009678785312,26.4850431011273,26.6546711755913,26.5585125085539
+Poland,POL,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,77.6056110386375,78.170166586923,78.6470373789718,78.76756539292,79.2835271044996,79.5855898254667,79.7257010548956,79.9915138119776,79.4436987603435,80.2736426017564,80.1408367971156
+Poland,POL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,10.031,10.293,8.971,7.475,6.141,4.867,3.835,3.267,3.155,3.268,2.811
+Poland,POL,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,5.525,5.635,4.651,3.933,3.241,2.433,1.999,1.99,1.932,1.745,1.306
+Portugal,PRT,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Portugal,PRT,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,87.39,..,..,92.34,..,..,..,92.65,..
+Portugal,PRT,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Portugal,PRT,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Portugal,PRT,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Portugal,PRT,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-4.98806611824855,1.71603822174637,0.126427493574809,2.52731547978019,3.00440045936925,3.19486408327963,2.08533658229682,2.7435202583999,-9.07907611463018,4.92903289710821,..
+Portugal,PRT,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,0.154840007424355,0.0404199995100498,0.256639987230301,0.517629981040955,0.662599980831146,0.750169992446899,0.115290001034737,0.300029993057251,0.375470012426376,0.412730008363724
+Portugal,PRT,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Portugal,PRT,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Portugal,PRT,Compensation of employees (% of expense),GC.XPN.COMP.ZS,25.1224133512136,26.0144661308513,23.3366144003243,24.2804371569572,25.85280491786,24.8567287676777,26.3857448202883,26.9264140489439,25.4431938422465,26.1475053474928,25.4656960022672
+Portugal,PRT,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Portugal,PRT,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Portugal,PRT,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Portugal,PRT,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.1663315159812,99.1701175619018,99.1752188842536,99.1816088485954,99.1892646693898,99.1981685973505,99.2082795604193,99.2195941125794,99.2320673881807,99.2456837063356,99.2604090152506
+Portugal,PRT,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..,..,..,..,..,..,..,..,..,..
+Portugal,PRT,Secure Internet servers,IT.NET.SECR,3767,4420,5570,9336,32838,128391,164308,196988,228378,249968,288225
+Portugal,PRT,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,6.59315497897024,6.72586185111791,6.44901627867401,7.2009352290972,6.58077363548724,7.77959655477925,7.31490622272039,7.9163514862058,7.66530913321364,6.96903677608203,6.69931768388593
+Portugal,PRT,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.192839995026588,0.126819998025894,0.140609994530678,1.22552001476288,1.7857700586319,1.80541002750397,1.45345997810364,0.722739994525909,0.214780002832413,0.0724100023508072,0.337850004434586
+Portugal,PRT,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,30.0200004577637,31.8700008392334,34.2099990844727,35.4300003051758,36.7700004577637,37.6199989318848,37.0800018310547,40.6800003051758,43.4500007629395,47.285888671875,48.120044708252
+Portugal,PRT,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,50.802,49.685,50.637,51.289,51.977,53.714,54.973,55.419,53.949,54.004,55.093
+Portugal,PRT,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,35.9940843124634,37.2084196967312,39.4962757540953,36.259493385234,33.8839267738869,34.3301907692383,31.6763464604113,31.0716296546671,36.1416399242527,34.1007075715316,31.8005139126175
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-4.05729360769561,-0.922644674527888,0.792190301875365,1.79204604555983,2.01948539561312,3.5063452848124,2.84932593436179,2.68275992118076,-8.3005165411776,5.73743721854339,6.82751087594069
+Portugal,PRT,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,29.7,28.39,28.75,26.76,29.86,29.7,28.82,28.68,34.42,31.94,30.9
+Portugal,PRT,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,25.2,..,..,25.3,25.3,25.4,..,..
+Portugal,PRT,"School enrollment, primary (% gross)",SE.PRM.ENRR,108.921829223633,110.040496826172,108.552978515625,107.011596679688,105.805290222168,104.913833618164,104.979461669922,105.182922363281,105.589859008789,104.925727844238,109.846130371094
+Portugal,PRT,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,39.4450917071053,46.4760737509398,44.914139971959,44.0367650360423,41.898752183363,41.3305986413197,41.4604414453013,40.6438041699958,42.2519176959457,40.5353544714837,43.031497550528
+Portugal,PRT,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,77.9333069272825,78.0854352263182,80.2759166570905,81.5977317824401,82.2504429877956,82.8007080085654,83.3621039159831,83.1579624796376,83.3245284617474,84.0208158257089,84.8432359395724
+Portugal,PRT,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,15.531,16.188,13.897,12.447,11.068,8.869,6.994,6.464,6.801,6.577,6.011
+Portugal,PRT,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,12.014,12.875,9.983,9.242,8.356,6.454,5.376,5.312,5.804,4.884,4.338
+Romania,ROU,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.8,98.1,98.4,98.8,99.1,100,99.8,100,100,100,100
+Romania,ROU,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,60.84,..,..,57.75,..,..,..,69.12,..
+Romania,ROU,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,67.6972717374351,..,..,..,79.5326692963043,..,..,..,..,..,..
+Romania,ROU,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,49.1846789850039,..,..,..,53.6308287538573,..,..,..,..,..,..
+Romania,ROU,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,28.7879889420106,..,..,..,29.5963166032436,..,..,..,..,..,..
+Romania,ROU,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,1.10853915198443,1.14531889944112,6.31735608880099,4.64450557622472,2.68003579588365,9.00113478695816,5.92739005539507,5.8520384936233,-0.420137307515688,3.96198783244164,..
+Romania,ROU,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,7.0230598449707,..,7.59004020690918,8.61025047302246,9.383469581604,10.2105703353882,11.0426902770996,11.291540145874,..,..,15.8625898361206
+Romania,ROU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Romania,ROU,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Romania,ROU,Compensation of employees (% of expense),GC.XPN.COMP.ZS,18.8535380621476,19.8484027857795,19.0279842710709,18.0845148083778,21.8519169672564,23.7439493038327,32.2116372023027,32.9408879843061,29.6085255354952,27.6872741682327,24.8465005086459
+Romania,ROU,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Romania,ROU,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Romania,ROU,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,83.6885488183393,..,..,..,81.4360040714998,..,..,..,..,..,..
+Romania,ROU,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,100,99.9999994938716,99.9999996874349,100,100,100,100,99.9999996798846,100,99.9999977769296,99.9999979732841
+Romania,ROU,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..,..,99.51149,99.54848,..,..,..,..,..,..
+Romania,ROU,Secure Internet servers,IT.NET.SECR,2635,3515,4912,7158,67411,240048,310378,371250,411782,445866,471223
+Romania,ROU,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,8.01952585078312,7.95696644289845,7.38359019833843,8.17832099493576,8.92436205660615,8.88864619461054,9.34211576597437,10.1990810675071,10.3263743113916,8.61977114859705,8.49269725365768
+Romania,ROU,Children out of school (% of primary school age),SE.PRM.UNER.ZS,6.32426023483276,..,..,7.88606023788452,8.94709968566895,9.39772987365723,8.44326972961426,7.58277988433838,8.2678804397583,9.58043956756592,15.6128101348877
+Romania,ROU,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,65.8399963378906,66.4599990844727,62.9799995422363,64.6600036621094,66.4199981689453,67.4499969482422,68.322151184082,69.1800003051758,71.0299987792969,72.1699981689453,73.0299987792969
+Romania,ROU,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,50.903,50.663,51.138,50.828,50.552,52.232,52.675,52.983,52.29,48.214,48.921
+Romania,ROU,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,24.0079855946388,24.0166566682959,24.2972692712734,25.3163736226106,24.589677874329,23.5295050126248,23.4136370811961,24.3318588005617,28.3669414654655,27.6513851182644,27.8473244355032
+Romania,ROU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.92499326240754,0.269963878633803,4.12067496319813,3.16050387041089,2.8575460568877,8.19650650309624,6.02901904128214,3.85316383348211,-3.67751079121797,5.70889455766321,4.10702720241547
+Romania,ROU,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,16.79,16.43,15.95,16.56,14.02,13.76,13.54,12.92,16.67,9.47,10.08
+Romania,ROU,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,29.7,..,..,28.4,28.4,28,..,..
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,96.2415466308594,..,..,89.0534133911133,87.5895919799805,87.2723999023438,91.3751220703125,92.6139984130859,91.9047393798828,90.7731704711914,84.8812789916992
+Romania,ROU,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,30.5213068412277,31.3495845403846,32.4999831186019,33.0280244427324,36.0879033201691,37.4926405229459,32.1839071955965,31.85529130223,31.6953150646916,32.7423466827261,37.0964673482237
+Romania,ROU,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,66.6409957785049,67.1821834990062,67.9177325027452,71.02482867726,73.390982596205,74.0498568638638,74.778816417569,75.7718792383085,76.2329407300173,76.5035106043944,76.7970902435533
+Romania,ROU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.794,7.096,6.802,6.812,5.901,4.927,4.187,3.912,5.035,5.59,5.614
+Romania,ROU,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,5.119,5.439,5.83,4.112,3.126,2.422,2.139,1.57,2.225,2.088,1.678
+Slovak Republic,SVK,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Slovak Republic,SVK,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,77.24,..,..,84.18,..,..,..,95.62,..
+Slovak Republic,SVK,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Slovak Republic,SVK,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Slovak Republic,SVK,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Slovak Republic,SVK,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,2.78601858088012,0.970302016792758,2.47185494830819,3.77628890265062,1.10579791645078,3.54146869671061,4.11530706173752,1.28990088790634,-3.35919413898296,2.42951765028181,..
+Slovak Republic,SVK,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,2.83956003189087,3.18505001068115,3.6669499874115,4.07223987579346,4.25788021087646,4.47614002227783,4.57188987731934,4.57528018951416,4.57981014251709,4.20060014724731,3.18026995658875
+Slovak Republic,SVK,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Slovak Republic,SVK,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Slovak Republic,SVK,Compensation of employees (% of expense),GC.XPN.COMP.ZS,18.7913764638592,20.1761244465131,20.4525149824171,20.090624095309,21.5819694625865,21.9099097412081,22.0210248796186,23.4779007619706,22.0352575119477,21.9802622070551,22.4040869806008
+Slovak Republic,SVK,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Slovak Republic,SVK,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Slovak Republic,SVK,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Slovak Republic,SVK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.3758339104534,99.5201692592559,99.7867524786684,99.7871908255865,99.7875192022145,99.7877339706798,99.7878305127762,99.7878178521954,99.7877013589871,99.7874584339023,99.7871080625055
+Slovak Republic,SVK,Progression to secondary school (%),SE.SEC.PROG.ZS,99.24747,99.19979,99.07942,..,99.10713,..,..,..,..,..,..
+Slovak Republic,SVK,Secure Internet servers,IT.NET.SECR,1934,2673,3564,5795,17600,37877,70772,109581,141484,170623,200435
+Slovak Republic,SVK,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,7.97466630039857,7.56089897018663,7.68843525323845,7.67578361556107,7.32132188353974,7.46188333876709,7.35267808828275,7.25977679932904,7.28797365139008,7.59887163228419,7.27279899697618
+Slovak Republic,SVK,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.72231006622314,5.8718900680542,6.34392023086548,6.25650978088379,6.69732999801636,5.94450998306274,7.00273990631104,6.00138998031616,4.97786998748779,4.33282995223999,2.8592700958252
+Slovak Republic,SVK,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,85.379997253418,85.9599990844727,85.3199996948242,86.6900024414062,87.3199996948242,87.0699996948242,87.7799987792969,87.6999969482422,89.1387252807617,89.8135070800781,90.1811904907227
+Slovak Republic,SVK,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,50.945,50.861,52.817,52.816,54.261,55.086,55.9,56.256,55.069,56.347,57.755
+Slovak Republic,SVK,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,27.3422364600365,26.8922216408237,26.9278098046947,27.2971256488277,26.3921811449002,24.8154511905102,24.7755883850418,25.3295630378457,29.9357439260337,30.3843499836455,27.5312485599527
+Slovak Republic,SVK,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.31880224556281,0.632740007294188,2.69718980707125,5.16718160614154,1.94395086102337,2.93806867784903,4.03038971425349,2.51125619776377,-3.32972320966405,4.77122142450317,1.87003619871018
+Slovak Republic,SVK,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.06,21.46,23.27,24.42,24.17,26.22,23.73,22.74,28.93,28.66,28.32
+Slovak Republic,SVK,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,31.5,..,..,31.5,31.5,31.5,..,..
+Slovak Republic,SVK,"School enrollment, primary (% gross)",SE.PRM.ENRR,99.1328735351562,98.6928482055664,98.5119476318359,98.3121109008789,97.6210403442383,98.2659530639648,97.0244369506836,97.9945983886719,99.9172286987305,100.064170837402,100.326721191406
+Slovak Republic,SVK,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,35.0444108626762,35.952442472893,37.2160766047648,38.1997337816575,38.6046007040388,37.9076254635903,38.2132370930022,37.5330020657898,37.5208984071419,39.7322556292511,38.9207581797358
+Slovak Republic,SVK,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.5237431545181,84.4258843105637,84.8719657227495,84.8427338258202,84.5592962375499,84.844649917561,85.1582535859075,84.9426628937282,85.0525096280832,85.0630228995336,84.9936153973664
+Slovak Republic,SVK,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,13.966,14.227,11.537,11.492,9.679,8.142,6.544,5.761,6.719,6.894,6.143
+Slovak Republic,SVK,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,6.992,7.247,6.04,6.041,5.618,4.147,3.073,2.517,3.469,3.073,2.385
+Slovenia,SVN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Slovenia,SVN,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,97.24,..,..,97.53,..,..,..,99.05,..
+Slovenia,SVN,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Slovenia,SVN,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Slovenia,SVN,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Slovenia,SVN,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-4.96504464422807,-0.296930777000497,4.55872342700152,0.400047813067545,5.14552448141391,6.36445804504042,5.59762495766476,4.1945294353124,-4.27543609810591,7.16178293836589,..
+Slovenia,SVN,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,2.23275995254517,2.34517002105713,2.27079010009766,2.38791990280151,2.49700999259949,1.97534000873566,1.38984000682831,1.26306998729706,1.06429004669189,1.61444997787476,1.29799997806549
+Slovenia,SVN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Slovenia,SVN,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Slovenia,SVN,Compensation of employees (% of expense),GC.XPN.COMP.ZS,27.2676726546407,18.7827075643139,22.6745653887683,23.37355623072,25.7392593616936,27.375913117445,28.2042544357509,28.9285834664448,25.8311416156159,26.4578120844129,26.4817612983595
+Slovenia,SVN,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Slovenia,SVN,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Slovenia,SVN,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Slovenia,SVN,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.5,99.5,99.5,99.5,99.5,99.5,99.5,99.5,99.5,99.5,99.5
+Slovenia,SVN,Progression to secondary school (%),SE.SEC.PROG.ZS,99.73209,99.72762,99.89622,99.25425,99.96649,..,..,..,..,..,..
+Slovenia,SVN,Secure Internet servers,IT.NET.SECR,1990,2504,3213,4517,11628,40489,68476,88819,103255,116883,130661
+Slovenia,SVN,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,7.5283570351795,8.15850455733114,10.2605395419742,11.1521213582355,11.5630790522057,11.5458297083325,10.6882483889617,10.6112869811398,9.52283689786663,9.16603251735785,9.07114402173714
+Slovenia,SVN,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.99038994312286,1.99244999885559,1.92056000232697,1.71205997467041,2.20773005485535,2.06335997581482,1.51131999492645,1.28426003456116,0.999339997768402,1.50478005409241,1.2043399810791
+Slovenia,SVN,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,79.1600036621094,79.7799987792969,80.0899963378906,81.4499969482422,81.870002746582,82.5599975585938,82.4642105102539,82.9400024414062,84.5077056884766,86.0022888183594,86.0007934570312
+Slovenia,SVN,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,52.449,51.461,52.096,52.18,52.068,54.59,55.805,55.485,54.891,55.704,56.579
+Slovenia,SVN,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,29.9993418525092,40.9040703062651,32.1318360393229,30.4048545889068,28.393930680638,26.3651359470581,25.1578580248865,25.037901143723,32.1431099407498,30.2267876876355,27.2276006626704
+Slovenia,SVN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.63943875676689,-1.02928277204056,2.76815883065036,2.21008160650594,3.19185251782498,4.81538063231366,4.45436574721896,3.52267923999254,-4.24088372175214,8.22849988578498,2.46078331366104
+Slovenia,SVN,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,29.84,28.65,29.55,28.03,28.71,32.22,30.04,28.88,30.72,27.93,29.82
+Slovenia,SVN,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,22.7,..,..,22.3,22.3,22,..,..
+Slovenia,SVN,"School enrollment, primary (% gross)",SE.PRM.ENRR,98.2142868041992,98.6006774902344,98.5871734619141,98.381591796875,97.9815826416016,98.1781311035156,99.4630966186523,99.8418197631836,100.231536865234,99.7762680053711,100.639137268066
+Slovenia,SVN,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,20.7286251597263,17.6815608469095,19.1581796584995,21.2715796364887,22.7167208119035,23.5951772633868,25.598373290402,25.3301995495847,25.6391220481176,28.6807840664643,27.9900742209909
+Slovenia,SVN,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.5798569642432,82.9126669872998,81.2321495229745,83.2845586859082,85.6852194020336,85.1378360353862,84.6621325560572,86.2959868154454,87.3856439841129,86.8721881850093,86.0271589283871
+Slovenia,SVN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,8.841,10.103,9.668,8.962,8,6.565,5.108,4.446,4.971,4.744,4.011
+Slovenia,SVN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,6.441,6.533,6.268,5.767,6.136,5.205,3.625,3,3.131,3.332,2.653
+Spain,ESP,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Spain,ESP,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,97.58,..,..,93.76,..,..,..,98.3,..
+Spain,ESP,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Spain,ESP,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Spain,ESP,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Spain,ESP,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-2.58139624474354,-0.79399689346026,1.44557170127932,4.7855597954193,3.63450417674846,2.8056374949368,2.30566191723776,1.95113226617704,-12.9430134064186,5.76828945342692,..
+Spain,ESP,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,2.10597991943359,2.34656000137329,2.62578010559082,2.85960006713867,3.01733994483948,2.97919988632202,2.89783000946045,2.85303997993469,2.90444993972778,2.78277993202209,2.48118996620178
+Spain,ESP,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Spain,ESP,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Spain,ESP,Compensation of employees (% of expense),GC.XPN.COMP.ZS,7.99533764588596,9.4534981378895,9.6501076894176,10.0861405111123,10.2095308901663,10.1306388503055,9.9393934139109,10.1553968206754,8.84517693240201,8.28495937905633,8.34178871127277
+Spain,ESP,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Spain,ESP,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Spain,ESP,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Spain,ESP,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9861651953951,99.9566415144306,99.926939322694,99.9267263105102,99.9265022787256,99.9262844449661,99.9260564294656,99.9258382744694,99.9256097637963,99.9253811087183,99.925157573403
+Spain,ESP,Progression to secondary school (%),SE.SEC.PROG.ZS,..,99.98985,99.87975,99.2581,99.97225,..,..,..,..,..,..
+Spain,ESP,Secure Internet servers,IT.NET.SECR,18879,22766,29090,41316,128415,337663,528944,834027,1022461,1185347,1292439
+Spain,ESP,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,4.53505751255773,5.33995094763897,5.61507541855652,6.00001242462912,6.15140677490154,6.05560632654632,6.04633140039262,6.09899130680541,5.91090648276954,5.78324237360126,5.52036620087101
+Spain,ESP,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.28696990013123,2.64211988449097,2.84390997886658,3.03518009185791,2.93603992462158,2.72563004493713,2.45879006385803,2.05715990066528,1.83044004440308,1.85924005508423,1.79373002052307
+Spain,ESP,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,45.5999984741211,46.8258819580078,47.2400016784668,47.8600006103516,48.6500015258789,49.8653259277344,50.4199981689453,52.1955718994141,53.2599983215332,54.9879417419434,55.3492813110352
+Spain,ESP,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,44.925,43.883,44.55,45.853,47.032,48.107,49.088,49.751,47.91,49.232,50.411
+Spain,ESP,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,25.876924151201,23.0978066518595,22.1670759862407,20.7177124030231,19.7939735467777,18.9508400918028,19.1607156652066,18.894463566418,24.7690369165602,24.8335501394923,23.2780268825151
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.95892213230024,-1.40334186790638,1.39577536727975,3.83851887667484,3.03777414172446,2.97576072924863,2.28446941947622,1.9839662230883,-11.1672978596983,6.40317361484541,5.77064767618052
+Spain,ESP,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,31,31.42,30.58,30,29.26,30.83,28.96,29.99,37.54,36.49,36.46
+Spain,ESP,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,29.7,..,..,28.1,28.1,27.7,..,..
+Spain,ESP,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.473442077637,103.107582092285,102.538467407227,102.144233703613,102.130096435547,102.50511932373,102.638717651367,103.185317993164,103.410423278809,102.899139404297,102.445991516113
+Spain,ESP,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,40.1738012004485,42.7813606656494,42.6850824187117,40.9942188979978,40.5316760485472,40.6146705553988,42.4161207067699,41.27983368469,40.9669261469159,43.6333072202637,46.9214766392884
+Spain,ESP,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.6919932996888,82.1331623058705,82.4023886698031,82.7157200592916,83.0552396528642,83.5381852992674,84.0257299064875,84.3171298188919,83.9293205035028,84.1440340476362,84.6606085787742
+Spain,ESP,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,24.789,26.094,24.441,22.057,19.635,17.224,15.255,14.105,15.532,14.781,12.917
+Spain,ESP,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,14.984,16.566,14.774,13.374,11.703,10.343,8.816,8.67,9.859,9.368,7.903
+Sweden,SWE,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Sweden,SWE,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,99.72,..,..,99.74,..,..,..,99.69,..
+Sweden,SWE,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Sweden,SWE,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Sweden,SWE,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Sweden,SWE,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-0.512824703393008,1.17328149652218,2.62589830016901,3.55311681333383,1.8518370527334,3.33064966559174,1.29434364627883,3.46930253613324,-2.00765811765868,4.68245278652424,..
+Sweden,SWE,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,2.3154399394989,0.928749978542328,1.20316004753113,0.807869970798492,..,..,..,0.695050001144409,0.561450004577637,0.416570007801056,0.473150014877319
+Sweden,SWE,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Sweden,SWE,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..,..,..,..,..,..,..,..,..,..
+Sweden,SWE,Compensation of employees (% of expense),GC.XPN.COMP.ZS,10.1625562556256,10.2498056622153,10.2028840057825,10.1266151380047,10.293517995802,10.3766983810069,10.3027713878848,10.486346354248,9.87742055728763,10.1014988432366,10.0348922996465
+Sweden,SWE,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,..,..,0,0,0,0,0,0,..,..,..
+Sweden,SWE,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,..,..,55,55,55,55,55,55,..,..,..
+Sweden,SWE,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..,..,..,..,..,..,..,..,..,..
+Sweden,SWE,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.6338807340891,99.6468240649313,99.6594134102182,99.6716730402795,99.6835913395112,99.6951860266427,99.7064550175558,99.7174099911848,99.7280724118451,99.7384457673194,99.7388798657575
+Sweden,SWE,Progression to secondary school (%),SE.SEC.PROG.ZS,99.93412,99.98999,99.92545,99.63702,99.57036,..,..,..,..,..,..
+Sweden,SWE,Secure Internet servers,IT.NET.SECR,22775,25830,30531,41234,61582,136977,189345,264047,338969,402066,480359
+Sweden,SWE,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,..,..,..,..,5.60558774538325,5.63519438919293,5.38349189854714,5.65963915420548,5.66657186906629,5.66733402694746,5.64748038510123
+Sweden,SWE,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.542150020599365,0.877539992332458,1.28245997428894,0.801379978656769,..,..,..,0.757759988307953,0.683870017528534,0.507719993591309,0.566910028457642
+Sweden,SWE,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,79,73.9199981689453,74.4700012207031,75.0299987792969,75.5599975585938,76.1500015258789,83.173713684082,77.2600021362305,84.2090759277344,83.1135482788086,83.9836730957031
+Sweden,SWE,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,65.46,65.745,66.232,66.65,67.054,67.838,68.33,68.344,67.212,60.869,62.096
+Sweden,SWE,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,29.6813912370702,30.0515791183704,29.7471404277274,28.9337091917089,28.6065715053869,28.2425395029809,28.3608785358674,27.8973126487365,31.3072164981191,29.645562846506,28.6905696694209
+Sweden,SWE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.588304568990736,1.187775715906,2.65779827531642,4.48928158790491,2.07059315052096,2.56792452526476,1.95002284569983,1.98619587380391,-2.17021317885872,6.14702464708019,2.66319953969133
+Sweden,SWE,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,47.07,47.32,47.75,48.31,45.91,46.84,46.45,47.62,50.3,47.04,46.82
+Sweden,SWE,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..,..,27.9,..,..,24.8,24.8,24,..,..
+Sweden,SWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,99.5537185668945,118.135437011719,118.02986907959,119.62419128418,121.448799133301,122.896057128906,123.754661560059,120.596801757812,119.500106811523,117.347633361816,116.425392150879
+Sweden,SWE,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,15.326160040139,15.8873535112333,17.0991283386293,19.1595951068929,18.8983100676666,19.3982249457691,18.6828730003362,18.7357367271645,18.2160017642617,20.2685897701332,19.8953477814829
+Sweden,SWE,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.5517856473273,89.4095455146576,89.6659411039065,89.7455208873191,90.0104577581701,90.1526393347969,90.287207274459,90.1593350194632,90.0791580351573,89.856339517131,89.495405600745
+Sweden,SWE,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,7.976,8.052,7.954,7.432,6.99,6.718,6.365,6.833,8.291,8.722,7.392
+Sweden,SWE,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,4.42,4.438,4.369,4.264,4.035,4.059,3.699,3.72,4.732,4.307,3.375
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,
+Last Updated: 11/13/2024,,,,,,,,,,,,,,
