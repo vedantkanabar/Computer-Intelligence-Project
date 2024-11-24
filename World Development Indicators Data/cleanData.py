@@ -33,5 +33,28 @@ df_pivot.columns.name = None
 # Convert column names to snake case
 df_pivot.columns = [col.lower().replace(" ", "_") for col in df_pivot.columns]
 
+# Remove 2022 information
+rows_to_drop = df_pivot[df_pivot['year'] == "2022"].index
+df_pivot = df_pivot.drop(rows_to_drop)
+
+# Identify columns with '..' which mean no data
+percent_dots = df_pivot.isin(['..']).mean()
+print(percent_dots)
+
+# Identify columns where 40% or more values are `..`
+columns_to_drop = percent_dots[percent_dots >= 0.4].index
+print(columns_to_drop)
+df_pivot = df_pivot.drop(columns=columns_to_drop)
+
+
+columns_with_dots = df_pivot.columns[df_pivot.isin(['..']).any()]
+
+print(df_pivot.shape)
+print(columns_with_dots)
+
+# df_pivot['access_to_clean_fuels_and_technologies_for_cooking_(%_of_population)'] = df_pivot['access_to_clean_fuels_and_technologies_for_cooking_(%_of_population)'].replace('..', '100')
+df_pivot = df_pivot.apply(lambda col: col.replace('..', 0) if col.dtype == 'object' else col)
+
+
 # Save the cleaned and reshaped data to a new CSV file
 df_pivot.to_csv("cleaned_EUCountriesDevelopmentIndicators.csv", index=False)

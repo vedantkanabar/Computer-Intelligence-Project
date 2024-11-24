@@ -28,4 +28,15 @@ filtered_EU_countries.loc[:, 'Countries'] = (filtered_EU_countries['ISO_Code']).
 filtered_EU_countries = filtered_EU_countries.rename(columns={'Countries': 'country_name', 'ISO_Code': 'country_code'})
 filtered_EU_countries.columns = [col.lower().replace(" ", "_").replace(".", "_") for col in filtered_EU_countries.columns]
 
+def convert_range_to_average(value):
+    # Check if the value contains a range (e.g., '50-55')
+    if isinstance(value, str) and '-' in value:
+        # Split the range and calculate the average
+        lower, upper = value.split('-')
+        return (float(lower) + float(upper)) / 2
+    # Return the value as is if it's not a range
+    return value
+
+filtered_EU_countries = filtered_EU_countries.map(convert_range_to_average)
+
 filtered_EU_countries.to_csv("cleaned_economic_data.csv", index=False)

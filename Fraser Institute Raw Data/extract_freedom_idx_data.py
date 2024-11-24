@@ -30,4 +30,17 @@ filtered_EU_countries.columns.values[2] = "country_name"
 filtered_EU_countries.columns.values[3] = "country_region"
 filtered_EU_countries.columns = [col.lower().replace(" ", "_") for col in filtered_EU_countries.columns]
 
+filtered_EU_countries = filtered_EU_countries.drop(columns=["country_region"])
+
+def convert_range_to_average(value):
+    # Check if the value contains a range (e.g., '50-55')
+    if isinstance(value, str) and '-' in value:
+        # Split the range and calculate the average
+        lower, upper = value.split('-')
+        return (float(lower) + float(upper)) / 2
+    # Return the value as is if it's not a range
+    return value
+
+filtered_EU_countries = filtered_EU_countries.map(convert_range_to_average)
+
 filtered_EU_countries.to_csv("cleaned_human_freedom_idx.csv", index=False)
