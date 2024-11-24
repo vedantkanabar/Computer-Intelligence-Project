@@ -15,10 +15,11 @@ except FileNotFoundError:
     exit()
 
 filtered_countries_df = data_df[data_df['Country name'].isin(EU_Countries) 
-                                & (data_df['year'].between(2012, 2022))][['Country name', 'year', 'Life Ladder']]
-print(filtered_countries_df.head())
+                                & (data_df['year'].between(2012, 2022))]
 
-filtered_countries_df = filtered_countries_df.rename(columns={'Country name': 'country_name'})
 filtered_countries_df = filtered_countries_df.rename(columns={'Life Ladder': 'happiness_index'})
 
-filtered_countries_df.to_csv("Cleaned_Happiness_index.csv", index=False)
+# Convert column names to snake case
+filtered_countries_df.columns = [col.lower().replace(" ", "_") for col in filtered_countries_df.columns]
+
+filtered_countries_df.to_csv("cleaned_happiness_index.csv", index=False)
