@@ -5,7 +5,6 @@ from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
-from sklearn.svm import SVR
 
 #Loading the data
 with open('../Combining Data and Feature creation/feature.json', 'r') as file:
@@ -15,8 +14,6 @@ all_feature_values = []
 target_list = []
 
 feature_columns = data[0].get('features', {}).keys()
-
-print(feature_columns)
 
 # Loop through each object in the array and extract feature values
 for item in data:
@@ -34,25 +31,23 @@ for item in data:
 
     target_list.append(happiness_index)
 
-
 # Convert the list of feature values into a NumPy array
 feature_array = np.array(all_feature_values)
 target_array = np.array(target_list)
-
-print(feature_array.shape)
 
 #Models to evaluate
 models = {
     "Random Forest": RandomForestRegressor(),
     "Linear Regression": LinearRegression(),
-    "Decision Tree": DecisionTreeRegressor(),
-    "Support Vector Regression (SVR)": SVR(kernel='linear')
+    "Decision Tree": DecisionTreeRegressor()
 }
 
 #Store the result for printing purposes
 evalResult = []
 
 for name, model in models.items():
+
+    print(f"Evaluating {name}...")
     
     r2_scores = cross_val_score(model, feature_array, target_array, cv=10, scoring='r2')
     mse_scores = -cross_val_score(model, feature_array, target_array, cv=10, scoring='neg_mean_squared_error')

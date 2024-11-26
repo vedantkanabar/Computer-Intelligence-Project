@@ -1,11 +1,9 @@
 import json
+from scipy.stats import randint
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.linear_model import LinearRegression
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.svm import SVR
+from sklearn.model_selection import RandomizedSearchCV
 from sklearn.model_selection import cross_validate
 from sklearn.metrics import mean_squared_error
 
@@ -43,8 +41,6 @@ target_array = np.array(target_list)
 
 print(feature_array.shape)
 
-print("Now training model")
-
 model = RandomForestRegressor()
 
 # scoring_metrics = ['neg_mean_squared_error', 'r2', 'neg_mean_absolute_error']
@@ -61,6 +57,26 @@ model = RandomForestRegressor()
 #     print(f"Mean {metric}: {cv_results['test_' + metric].mean()}")
 #     print(f"Standard deviation of {metric}: {cv_results['test_' + metric].std()}")
 #     print("-" * 50)c
+
+# Hyperparameter tuning
+print("Hyperparameter tuning...")
+
+param_dist = {
+    'n_estimators': randint(50, 200),        # Random search between 50 and 200
+    'max_depth': [None, 10, 20, 30],          # Max depth of trees
+    'min_samples_split': randint(2, 10),      # Min samples to split
+    'min_samples_leaf': randint(1, 5),        # Min samples at leaf node
+    'bootstrap': [True, False]                # Whether to use bootstrap sampling
+}
+
+random_search = RandomizedSearchCV(estimator=model, param_distributions=param_dist, n_iter=100, cv=5, scoring='neg_mean_squared_error', random_state=42)
+random_search.fit(feature_array, target_array)
+print("Best parameters found: ", random_search.best_params_)
+best_model = random_search.best_estimator_
+print(best_model)
+
+
+print("Now training model...")
 
 model.fit(feature_array, target_array)
 
