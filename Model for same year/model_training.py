@@ -47,10 +47,20 @@ print("Now training model")
 
 model = RandomForestRegressor()
 
-scoring_metrics = ['neg_mean_squared_error', 'r2', 'neg_mean_absolute_error']
+# scoring_metrics = ['neg_mean_squared_error', 'r2', 'neg_mean_absolute_error']
 
 # Perform K-Fold Cross-Validation (using 5 folds in this case)
 # cv_results = cross_validate(model, feature_array, target_array, cv=10, scoring=scoring_metrics)
+
+# Print the cross-validation scores and their mean
+# print(f"Cross-Validation Mean Squared Errors for each fold: {cv_scores}")
+# print(f"Mean of Cross-Validation MSE: {cv_scores.mean()}")
+
+# for metric in scoring_metrics:
+#     print(f"{metric} for each fold: {cv_results['test_' + metric]}")
+#     print(f"Mean {metric}: {cv_results['test_' + metric].mean()}")
+#     print(f"Standard deviation of {metric}: {cv_results['test_' + metric].std()}")
+#     print("-" * 50)c
 
 model.fit(feature_array, target_array)
 
@@ -69,13 +79,3 @@ top_n_features = feature_importance_df.head(n)
 
 # Display the top N features
 print(top_n_features)
-
-# Print the cross-validation scores and their mean
-# print(f"Cross-Validation Mean Squared Errors for each fold: {cv_scores}")
-# print(f"Mean of Cross-Validation MSE: {cv_scores.mean()}")
-
-# for metric in scoring_metrics:
-#     print(f"{metric} for each fold: {cv_results['test_' + metric]}")
-#     print(f"Mean {metric}: {cv_results['test_' + metric].mean()}")
-#     print(f"Standard deviation of {metric}: {cv_results['test_' + metric].std()}")
-#     print("-" * 50)
