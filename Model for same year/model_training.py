@@ -1,5 +1,6 @@
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
+# from sklearn.ensemble import RandomForestRegressor
+from sklearn.tree import DecisionTreeRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score, root_mean_squared_error, mean_absolute_error
 from utils import extract_features
@@ -12,13 +13,14 @@ feature_train, feature_test, happiness_index_train, happiness_index_test = train
 
 
 # Set model to Random Forest
-model = RandomForestRegressor(
-    bootstrap=True, 
-    max_depth=30,
-    min_samples_leaf=1, 
-    min_samples_split=2, 
-    n_estimators=196
-    )
+# model = RandomForestRegressor(
+#     bootstrap=True, 
+#     max_depth=30,
+#     min_samples_leaf=1, 
+#     min_samples_split=2, 
+#     n_estimators=196
+#     )
+model = DecisionTreeRegressor()
 
 print("Now training model...")
 model.fit(feature_train, happiness_index_train)
