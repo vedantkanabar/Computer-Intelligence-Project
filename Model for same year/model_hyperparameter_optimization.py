@@ -30,24 +30,3 @@ random_search.fit(feature_array, happiness_index_array)
 print("Best parameters found: ", random_search.best_params_)
 best_model = random_search.best_estimator_
 print(best_model)
-
-
-# print("Now training model...")
-
-# model.fit(feature_array, happiness_index_array)
-
-# feature_importances = model.feature_importances_
-
-# feature_importance_df = pd.DataFrame({
-#     'feature': feature_columns,  # assuming X_train is a DataFrame with column names
-#     'importance': feature_importances
-# })
-
-# feature_importance_df = feature_importance_df.sort_values(by='importance', ascending=False)
-
-# # Select the top N features
-# n = 10  # You can adjust this number based on how many top features you want
-# top_n_features = feature_importance_df.head(n)
-
-# # Display the top N features
-# print(top_n_features)
