@@ -1,46 +1,27 @@
 from sklearn.manifold import MDS
+from scipy.spatial.distance import pdist, squareform
 import matplotlib.pyplot as plt
-from utils import extract_features_label
+from utils import extract_features
 
-EU_Countries = [
-    "Austria", "Belgium", "Bulgaria", "Croatia", "Republic of Cyprus", "Czech Republic",
-    "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland",
-    "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland",
-    "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"
-]
+feature_array, feature_columns, happiness_index_array = extract_features('../Combining Data and Feature creation/feature.json')
 
-# Extract features from json file
-feature_array, feature_label, feature_columns, happiness_index_array = extract_features_label('../Combining Data and Feature creation/feature.json')
+# Calculate distance matrix for MDS
+distance_matrix = squareform(pdist(feature_array, metric="euclidean"))
 
-mds = MDS(n_components=3, dissimilarity="precomputed", random_state=0)
+# Apply MDS for dimensionality reduction to 3 components
+mds = MDS(n_components=3, dissimilarity="precomputed")
+mds_result = mds.fit_transform(distance_matrix)
 
-# fit our ditance matrix into the mds function
-mds_result = mds.fit_transform(feature_array)
-
-# Create labels refering to datapoints
-colors = [color_map[label] for label in labels]
-
-# Plot the figure
+# Plot the MDS results
 fig = plt.figure(figsize=(10, 8))
 ax = fig.add_subplot(111, projection="3d")
+scatter = ax.scatter(mds_result[:, 0], mds_result[:, 1], mds_result[:, 2], c=happiness_index_array, cmap="viridis", edgecolor="k", s=50)
 
-# Plot each label by itself
-for label in color_map.keys():
+ax.set_title("3D Visualization of MDS Reduced Features")
+ax.set_xlabel("MDS component 1")
+ax.set_ylabel("MDS component 2")
+ax.set_zlabel("MDS component 3")
+fig.colorbar(scatter, ax=ax, shrink=0.5, aspect=5)
 
-    # Select valid indexes for label with np.where(
-    indices = np.where(labels == label)
-
-    # Add those data points with the correct label
-    ax.scatter(mds_result[indices, 0], mds_result[indices, 1], mds_result[indices, 2], label=label, color=color_map[label], s=10)
-
-# Setting labels and title
-ax.set_xlabel("X Axis")
-ax.set_ylabel("Y Axis")
-ax.set_zlabel("Z Axis")
-ax.set_title(f"3D MDS Representation for {k}-mers")
-
-# Setting legend
-ax.legend()
-
-# UNCOMMENT line if you want to play around with 3d image
+# Display the plot
 plt.show()

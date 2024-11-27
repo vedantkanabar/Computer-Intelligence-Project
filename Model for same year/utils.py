@@ -1,12 +1,13 @@
 import json
 import numpy as np
+from sklearn.preprocessing import StandardScaler
 
 
 # A common function to extract features from the JSON file we have saved earlier.
 # Inputs:
 #   - fname: The file name to read from.
 # Outputs:
-#   - feature_array: An np array containing all feature vectors.
+#   - feature_array: An np array containing all feature vectors after normalization.
 #   - feature_columns: Corresponding column names for feature vectors
 #   - happiness_index_array: An np array containing all corresponding happiness_index
 #     values for each feature.
@@ -40,14 +41,18 @@ def extract_features(fname):
     feature_array = np.array(feature_list)
     happiness_index_array = np.array(happiness_index_list)
 
-    return feature_array, feature_columns, happiness_index_array
+    # Normalize the data with a stanard scalar (z = (x - u) / s)
+    scaler = StandardScaler()
+    normalized_feature_array = scaler.fit_transform(feature_array)
+
+    return normalized_feature_array, feature_columns, happiness_index_array
 
 
 # A common function to extract features and labels from the JSON file we have saved earlier.
 # Inputs:
 #   - fname: The file name to read from.
 # Outputs:
-#   - feature_array: An np array containing all feature vectors.
+#   - feature_array: An np array containing all feature vectors after normalization.
 #   - feature_label: Corresponding label for all feature vector
 #   - feature_columns: Corresponding column names for feature vectors
 #   - happiness_index_array: An np array containing all corresponding happiness_index
@@ -89,4 +94,8 @@ def extract_features_label(fname):
     feature_label = np.array(feature_label_list)
     happiness_index_array = np.array(happiness_index_list)
 
-    return feature_array, feature_label, feature_columns, happiness_index_array
+    # Normalize the data with a stanard scalar (z = (x - u) / s)
+    scaler = StandardScaler()
+    normalized_feature_array = scaler.fit_transform(feature_array)
+
+    return normalized_feature_array, feature_label, feature_columns, happiness_index_array

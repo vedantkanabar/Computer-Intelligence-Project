@@ -1,39 +1,23 @@
-import json
-import numpy as np
-import pandas as pd
 from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
-from utils import extract_features_label
+from utils import extract_features
 
-EU_Countries = [
-    "Austria", "Belgium", "Bulgaria", "Croatia", "Republic of Cyprus", "Czech Republic",
-    "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland",
-    "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland",
-    "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"
-]
+feature_array, feature_columns, happiness_index_array = extract_features('../Combining Data and Feature creation/feature.json')
 
-feature_array, feature_label, feature_columns, happiness_index_array = extract_features_label('../Combining Data and Feature creation/feature.json')
-
-# Scale the feature data
-scaler = StandardScaler()
-feature_scaled = scaler.fit_transform(feature_array)
-
-# Apply PCA for dimensionality reduction to 2 components
-pca = PCA(n_components=2)
-X_pca = pca.fit_transform(feature_scaled)
+# Apply PCA for dimensionality reduction to 3 components
+pca = PCA(n_components=3)
+pca_result = pca.fit_transform(feature_array)
 
 # Plot the PCA results
-plt.figure(figsize=(8, 6))
-scatter = plt.scatter(X_pca[:, 0], X_pca[:, 1], c=happiness_index_array, cmap='viridis', edgecolor='k', s=100)
+fig = plt.figure(figsize=(10, 8))
+ax = fig.add_subplot(111, projection="3d")
+scatter = ax.scatter(pca_result[:, 0], pca_result[:, 1], pca_result[:, 2], c=happiness_index_array, cmap="viridis", edgecolor="k", s=50)
 
-# Add labels and title
-plt.xlabel('PCA Component 1')
-plt.ylabel('PCA Component 2')
-plt.title('PCA - 2D Scatterplot of Reduced Features')
-
-# Show a colorbar to represent happiness index
-plt.colorbar(scatter, label='Happiness Index')
+ax.set_title("3D Visualization of PCA Reduced Features")
+ax.set_xlabel("PCA component 1")
+ax.set_ylabel("PCA component 2")
+ax.set_zlabel("PCA component 3")
+fig.colorbar(scatter, ax=ax, shrink=0.5, aspect=5)
 
 # Display the plot
 plt.show()
