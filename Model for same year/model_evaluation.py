@@ -1,5 +1,3 @@
-import json
-import numpy as np
 import pandas as pd
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestRegressor
@@ -10,7 +8,7 @@ from sklearn.svm import SVR
 from utils import extract_features
 
 # Extract features from json file
-feature_array, feature_columns, happiness_index_array = extract_features('../Combining Data and Feature creation/feature.json')
+feature_array, feature_columns, happiness_index_array = extract_features("../Combining Data and Feature creation/feature.json")
 
 # Models to evaluate
 models = {
@@ -28,8 +26,8 @@ for name, model in models.items():
 
     print(f"Evaluating {name} ...")
     
-    r2_scores = cross_val_score(model, feature_array, happiness_index_array, cv=10, scoring='r2')
-    mse_scores = -cross_val_score(model, feature_array, happiness_index_array, cv=10, scoring='neg_mean_squared_error')
+    r2_scores = cross_val_score(model, feature_array, happiness_index_array, cv=10, scoring="r2")
+    mse_scores = -cross_val_score(model, feature_array, happiness_index_array, cv=10, scoring="neg_mean_squared_error")
 
     evalResult.append({
         "Model": name,
@@ -45,17 +43,18 @@ for name, model in models.items():
 
     print("Finished Evaluation")
 
+# Print results
 results = pd.DataFrame(evalResult)
 print("\n10-Fold Cross-Validation Results:")
 print(results)
 
 # Find the best model based on Average R2 Score
 best_model = results.loc[results["Average R2 Score"].idxmax()]
-print(f"\nBest model based on Average R2 Score: {best_model['Model']}")
+print(f"\nBest model based on Average R2 Score: {best_model["Model"]}")
 
 # Find the best model based on Average MSE score
 best_model = results.loc[results["Average MSE"].idxmin()]
-print(f"\nBest model based on Average MSE Score: {best_model['Model']}")
+print(f"\nBest model based on Average MSE Score: {best_model["Model"]}")
 
 
 

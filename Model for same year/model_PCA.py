@@ -2,7 +2,7 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 from utils import extract_features
 
-feature_array, feature_columns, happiness_index_array = extract_features('../Combining Data and Feature creation/feature.json')
+feature_array, feature_columns, happiness_index_array = extract_features("../Combining Data and Feature creation/feature.json")
 
 # Apply PCA for dimensionality reduction to 3 components
 pca = PCA(n_components=3)

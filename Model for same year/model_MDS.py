@@ -3,7 +3,7 @@ from scipy.spatial.distance import pdist, squareform
 import matplotlib.pyplot as plt
 from utils import extract_features
 
-feature_array, feature_columns, happiness_index_array = extract_features('../Combining Data and Feature creation/feature.json')
+feature_array, feature_columns, happiness_index_array = extract_features("../Combining Data and Feature creation/feature.json")
 
 # Calculate distance matrix for MDS
 distance_matrix = squareform(pdist(feature_array, metric="euclidean"))

@@ -2,7 +2,7 @@ from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 from utils import extract_features
 
-feature_array, feature_columns, happiness_index_array = extract_features('../Combining Data and Feature creation/feature.json')
+feature_array, feature_columns, happiness_index_array = extract_features("../Combining Data and Feature creation/feature.json")
 
 # Apply tSNE for dimensionality reduction to 3 components
 tsne = TSNE(n_components=3)
