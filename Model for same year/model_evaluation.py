@@ -15,7 +15,7 @@ feature_array, feature_columns, happiness_index_array = extract_features('../Com
 # Models to evaluate
 models = {
     "Linear Regression": LinearRegression(),
-    "Lasso Regression": LinearRegression(),
+    "Lasso Regression": Lasso(),
     "Random Forest": RandomForestRegressor(),
     "Decision Tree": DecisionTreeRegressor(),
     "Support Vector Regression": SVR(),
