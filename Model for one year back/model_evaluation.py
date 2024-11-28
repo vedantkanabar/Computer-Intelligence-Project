@@ -8,7 +8,7 @@ from sklearn.svm import SVR
 from utils import extract_features
 
 # Extract features from json file
-feature_array, feature_columns, happiness_index_array = extract_features("../Combining Data and Feature creation/feature.json")
+feature_array, feature_columns, happiness_index_array = extract_features("../Combining Data and Feature creation/feature_year_back.json")
 
 # Models to evaluate
 models = {
