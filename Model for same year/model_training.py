@@ -1,8 +1,11 @@
 import pandas as pd
-# from sklearn.ensemble import RandomForestRegressor
-from sklearn.tree import DecisionTreeRegressor
+import textwrap
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score, root_mean_squared_error, mean_absolute_error
+from sklearn.inspection import permutation_importance
 from utils import extract_features
 
 # Extract features from json file
@@ -13,14 +16,13 @@ feature_train, feature_test, happiness_index_train, happiness_index_test = train
 
 
 # Set model to Random Forest
-# model = RandomForestRegressor(
-#     bootstrap=True, 
-#     max_depth=30,
-#     min_samples_leaf=1, 
-#     min_samples_split=2, 
-#     n_estimators=196
-#     )
-model = DecisionTreeRegressor()
+model = RandomForestRegressor(
+    bootstrap=True, 
+    max_depth=30,
+    min_samples_leaf=1, 
+    min_samples_split=2, 
+    n_estimators=196
+    )
 
 print("Now training model...")
 model.fit(feature_train, happiness_index_train)
@@ -54,3 +56,20 @@ top_n_features = feature_importance_df.head(n)
 
 # Display the top N features
 print(top_n_features)
+
+
+sorted_idx = np.argsort(feature_importances)[-10:] # Get top 10 features
+
+top_features = np.array(feature_columns)[sorted_idx]
+top_importances = feature_importances[sorted_idx]
+
+wrapped_features = ["\n".join(textwrap.wrap(feature, width=30)) for feature in top_features]
+
+pos = np.arange(len(top_features)) + 0.5
+fig = plt.figure(figsize=(12, 6))
+plt.subplot(1, 1, 1)
+plt.barh(pos, top_importances, align="center")
+plt.yticks(pos, wrapped_features)
+plt.title("Feature Importance (MDI)")
+fig.tight_layout()
+plt.show()
