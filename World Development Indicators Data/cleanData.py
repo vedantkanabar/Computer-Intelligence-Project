@@ -3,7 +3,7 @@ import pandas as pd
 # Load the CSV file
 df = pd.read_csv("EUCountriesDevelopmentIndicators.csv")
 
-# Replace country names
+# Replace country names to match across datasets
 df['country_name'] = df['country_name'].replace({
     'Cyprus': 'Republic of Cyprus',
     'Slovak Republic': 'Slovakia',
@@ -46,13 +46,11 @@ columns_to_drop = percent_dots[percent_dots >= 0.4].index
 print(columns_to_drop)
 df_pivot = df_pivot.drop(columns=columns_to_drop)
 
-
+# print colums with dots to inform the user of what data is missing
 columns_with_dots = df_pivot.columns[df_pivot.isin(['..']).any()]
-
-print(df_pivot.shape)
 print(columns_with_dots)
 
-# df_pivot['access_to_clean_fuels_and_technologies_for_cooking_(%_of_population)'] = df_pivot['access_to_clean_fuels_and_technologies_for_cooking_(%_of_population)'].replace('..', '100')
+# Replace the reamining missing data with a 0 value to retain the feature
 df_pivot = df_pivot.apply(lambda col: col.replace('..', 0) if col.dtype == 'object' else col)
 
 

@@ -15,13 +15,14 @@ for _, row in df.iterrows():
     country_name = row["country_name"]
     year = int(row["year"])
 
+    # Find row with data fro same country with information for the year prior
     year_back = df.loc[(df["country_name"] == country_name) & (df["year"] == year - 1)]
 
     # Incase of years with no data back from 1 year back (e.g. 2012) continue to next row
     if year_back.empty:
         continue
 
-    # # Create the base JSON structure with country and year
+    # Create the base JSON structure with labels, happiness_index and features
     data = {
         "labels": {
             "country": row["country_name"],
@@ -34,16 +35,19 @@ for _, row in df.iterrows():
     # Iterate over each column in the row, except for the ones we already used in the labels
     for column in df.columns:
         if column not in ["country_name", "year", "happiness_index"]:
-            # Add the column value to the "features" dictionary
+
+            # Add the column value to the "features" object
             data["features"][column] = row[column]
 
+    # Append _1_back to column names for columns from one year back
     year_back.columns = [col+"_1_back" for col in year_back.columns]
     year_back_row = year_back.iloc[0]
 
     # Iterate over each column in the row 1 year back, except for the ones we already used in the labels
     for column in year_back.columns:
         if column not in ["country_name_1_back", "year_1_back", "happiness_index_1_back"]:
-            # Add the column value to the "features" dictionary
+
+            # Add the column value to the "features" dictionary, convert int64 to int for JSON Serialization
             if isinstance(year_back_row[column], np.integer):
                 data["features"][column] = int(year_back_row[column])
             else:

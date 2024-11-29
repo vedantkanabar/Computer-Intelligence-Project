@@ -9,7 +9,8 @@ json_data = []
 
 # Iterate over each row to build the JSON structure
 for _, row in df.iterrows():
-    # Create the base JSON structure with country and year
+
+    # Create the base JSON structure with labels, happiness_index and features
     data = {
         "labels": {
             "country": row["country_name"],
@@ -22,7 +23,8 @@ for _, row in df.iterrows():
     # Iterate over each column in the row, except for the ones we already used in the labels
     for column in df.columns:
         if column not in ["country_name", "year", "happiness_index"]:
-            # Add the column value to the "features" dictionary
+
+            # Add the column value to the "features" object
             data["features"][column] = row[column]
     
     # Append the data for the current row to the JSON list
