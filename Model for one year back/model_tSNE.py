@@ -13,7 +13,7 @@ fig = plt.figure(figsize=(10, 8))
 ax = fig.add_subplot(111, projection="3d")
 scatter = ax.scatter(tsne_result[:, 0], tsne_result[:, 1], tsne_result[:, 2], c=happiness_index_array, cmap="viridis", edgecolor="k", s=50)
 
-ax.set_title("3D Visualization of t-SNE Reduced Features")
+ax.set_title("3D Visualization of t-SNE Reduced Features (One year back model)")
 ax.set_xlabel("t-SNE component 1")
 ax.set_ylabel("t-SNE component 2")
 ax.set_zlabel("t-SNE component 3")
