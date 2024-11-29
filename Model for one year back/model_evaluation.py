@@ -50,11 +50,11 @@ print(results)
 
 # Find the best model based on Average R2 Score
 best_model = results.loc[results["Average R2 Score"].idxmax()]
-print(f"\nBest model based on Average R2 Score: {best_model["Model"]}")
+print(f"\nBest model based on Average R2 Score: {best_model['Model']}")
 
 # Find the best model based on Average MSE score
 best_model = results.loc[results["Average MSE"].idxmin()]
-print(f"\nBest model based on Average MSE Score: {best_model["Model"]}")
+print(f"\nBest model based on Average MSE Score: {best_model['Model']}")
 
 
 
