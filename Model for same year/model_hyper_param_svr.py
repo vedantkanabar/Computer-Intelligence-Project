@@ -13,11 +13,11 @@ model = SVR()
 print("Hyperparameter tuning...")
 
 param_dist = {
-    'C': uniform(0.1, 10),
-    'epsilon': uniform(0.01, 1),
-    'kernel': ['linear', 'poly', 'rbf', 'sigmoid'],
-    'degree': [2, 3, 4, 5],
-    'gamma': ['scale', 'auto']
+    'C': uniform(0.1, 10),                           # Regularization parameter, sampled from 0.1 to 10
+    'epsilon': uniform(0.01, 1),                     # Epsilon-tube width, sampled from 0.01 to 1
+    'kernel': ['linear', 'poly', 'rbf', 'sigmoid'],  # Kernel types for SVR
+    'degree': [2, 3, 4, 5],                          # Polynomial degree, used if kernel is 'poly'
+    'gamma': ['scale', 'auto']                       # Kernel coefficient options
 }
 
 # Perform rendomized search for hyper parameters

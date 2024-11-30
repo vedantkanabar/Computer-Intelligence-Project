@@ -25,9 +25,11 @@ model = RandomForestRegressor(
     n_estimators=196
     )
 
+# Train the model
 print("Now training Random Forest Regression model...")
 model.fit(feature_train, happiness_index_train)
 
+# Test the model
 happiness_index_pred = model.predict(feature_test)
 
 # Calculate r2, MSE, R-MSE, ASE for regression evaluation

@@ -26,6 +26,7 @@ for name, model in models.items():
 
     print(f"Evaluating {name} ...")
     
+    # Evaluate model with a 10 fold cross validation
     r2_scores = cross_val_score(model, feature_array, happiness_index_array, cv=10, scoring="r2")
     mse_scores = -cross_val_score(model, feature_array, happiness_index_array, cv=10, scoring="neg_mean_squared_error")
 

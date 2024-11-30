@@ -25,9 +25,11 @@ model = SVR(
     kernel="linear"
     )
 
+# Train the model
 print("Now training Support Vector Regression model...")
 model.fit(feature_train, happiness_index_train)
 
+# Test the model
 happiness_index_pred = model.predict(feature_test)
 
 # Calculate r2, MSE, R-MSE, ASE for regression evaluation
