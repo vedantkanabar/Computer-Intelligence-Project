@@ -73,6 +73,7 @@ JSON format for feature files:
 9. The `model_training_random_forest.py` is a python script to train an Random Forest model to fit the data. It uses the hyperparameters from the previous script and splits the data into 80% training, 20% testing for evaluation. It prints out the model evaluation values for the different metrics. It also created residual plots for the model and evaluates the most important features through feature permutation creating a bar graph for it as well.
 10. The `Support Vector Regression Important vectors graph.png` and `Support Vector Regression Residual plot.png` are the graphs created by `model_training_svr.py` for the SVR model.
 11. The `Random Forest Regression Important vectors graph.png` and `Random Forest Regression Residual plot.png` are the graphs created by `model_training_random_forest.py` for the Random Forest model.
+12. The `utils.py` file contains common functions used by all files.
 
 ### Model for one year back
 1. In the folder called "Model for one year back". All files in this folder deal with features for the same year and one year back combined. You can find the python scripts that you can run for:
@@ -90,3 +91,4 @@ JSON format for feature files:
 9. The `model_training_random_forest.py` is a python script to train an Random Forest model to fit the data. It uses the hyperparameters from the previous script and splits the data into 80% training, 20% testing for evaluation. It prints out the model evaluation values for the different metrics. It also created residual plots for the model and evaluates the most important features through feature permutation creating a bar graph for it as well.
 10. The `Support Vector Regression Important vectors graph.png` and `Support Vector Regression Residual plot.png` are the graphs created by `model_training_svr.py` for the SVR model.
 11. The `Random Forest Regression Important vectors graph.png` and `Random Forest Regression Residual plot.png` are the graphs created by `model_training_random_forest.py` for the Random Forest model.
+12. The `utils.py` file contains common functions used by all files.
