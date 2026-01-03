@@ -1,5 +1,8 @@
 # Calculating Happiness Index
 
+**NOTE:** 
+- See `CIS4780 Final Report Paper.pdf` for final report
+
 ## Students
 
 - Gariel Mahwastu
